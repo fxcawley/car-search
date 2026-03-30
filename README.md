@@ -24,7 +24,7 @@ Sixteen vehicles were evaluated in total. Individual reports are in separate fil
 | 3 | [2015 Subaru Impreza 5-speed](https://kalamazoo.craigslist.org/cto/d/schoolcraft-2015-subaru-impreza-awd/7923553933.html) | $5,000 | 190,000 | Simplest/cheapest to maintain, manual trans | Unknown history |
 | 4 | [2014 VW Jetta 1.8T SE](https://pristinemotorscorp.mycarsonline.com/inventory/volkswagen/jetta/221661/) | $4,600 | 130,057 | Decent, FWD simplicity | Service gaps after 46k |
 | 5 | [2011 BMW 328i xDrive (Ann Arbor)](https://www.carfax.com/vehicle/WBAPK5G59BNN24807) | $4,200 | 192,500 | Cheapest, great documentation (38 records) | 192k, two accidents |
-| 6 | 2007 Mercedes-Benz C280 4MATIC | $5,500 | 89,305 | Lowest miles (89k), garage-kept | M272 balance shaft risk, 18 years old |
+| 6 | [2007 Mercedes-Benz C280 4MATIC](https://detroit.craigslist.org/okl/cto/d/birmingham-2007-mercedes-benz-class/7924263242.html) | $5,500 | 89,305 | Lowest miles (89k), garage-kept | M272 balance shaft risk, 18 years old |
 | 7 | 2016 VW Passat 1.8T S | $4,800 | 169,977 | No accidents, decent engine | Repo, service gap, 170k turbo |
 | ✗ | 2008 BMW 335i (San Diego) | $5,000 | 166,653 | — | **Hard no** — 3 damage events, repo, dealer carousel |
 | ✗ | 2012 BMW 328i xDrive (Sterling) | — | ~153,000 | — | **Pass** — 3 damage events, undisclosed accident, open airbag recall |
