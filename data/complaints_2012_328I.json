@@ -1,0 +1,3160 @@
+{
+  "count": 143,
+  "message": "Results returned successfully",
+  "results": [
+    {
+      "odiNumber": 11721590,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/05/2025",
+      "dateComplaintFiled": "03/02/2026",
+      "vin": "WBA3A5C59CF",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "The inner film on the central display console that shows navigation, multimedia and other information detached and made the display unreadable.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11710165,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/09/2026",
+      "dateComplaintFiled": "01/11/2026",
+      "vin": "WBADW3C54CE",
+      "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+      "summary": "INCIDENT SUMMARY: On January 9, 2026, at approximately 1:30 PM, while traveling at 50 MPH in North Carolina, the vehicle experienced a sudden, catastrophic engine seizure without any prior \"Limp Mode\" warning or Check Engine Light. This resulted in an immediate, total loss of motive power in active traffic. I was forced to navigate a dead multi-ton vehicle across lanes without power steering or vacuum-assisted braking, narrowly avoiding a high-speed collision.  TIMELINE & NEGLIGENCE: This vehicle was purchased from an independent retail dealer on December 20, 2025—less than 21 days prior to this life-threatening failure. The vehicle was sold with an \"Open\" status for Safety Recall 23V-707. The failure occurred exactly as described in the recall’s warning: a catastrophic stall at speed.  TECHNICAL EVIDENCE: A non-invasive borescope inspection of the cylinders has confirmed the presence of metallic \"silver chunks\" (sheared bolt heads) and \"half-moon\" impact marks on the piston crowns, indicating a total timing failure and internal mechanical collision (piston-to-valve contact).  REQUIRED REMEDY: This incident is a direct manifestation of the safety risk documented in Recall 23V-707. Per BMW Service Bulletin SIB 11 09 23, the presence of sheared bolt heads and seized internals constitutes \"Catastrophic Consequential Damage.\" I am filing this report to ensure federal oversight of BMW North America’s obligation to provide a complete engine replacement, as the safety defect was present at the time of sale and resulted in a near-fatal incident within 300 miles of ownership.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11689232,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/18/2025",
+      "dateComplaintFiled": "09/23/2025",
+      "vin": "WBAUU3C52CA",
+      "components": "ENGINE",
+      "summary": "While traveling at night on the toll road between Washington, DC and Pittsburgh, PA, the vehicle suddenly shut off without warning. Power was lost completely, including power steering, while in motion on a major freeway, creating an immediate and severe risk of collision for us and surrounding motorists. Although the vehicle did restart, it stalled again shortly afterward while still on the toll road. The failure repeated when decelerating on the highway or coming to a stop after exiting. At no point were there warning lamps, check-engine lights, messages, or reduced-power mode indicators prior to the stalls; the shutdowns occurred without any advance notice.  The vehicle was towed to an independent BMW-only repair shop in Pittsburgh. Their initial assessment indicated a high likelihood that the failure involved the VANOS assembly bolts, though the engine was not disassembled at that time, so the diagnosis could not be confirmed with certainty. Because the shop did not have immediate availability, we were asked to transport the car home until they could perform a full repair. After sitting for several weeks, the car was towed back for further inspection, at which point the shop discovered that a VANOS bolt had likely sheared off and caused irreparable damage to the engine. Our only options now are to replace the engine or scrap the vehicle.  The vehicle remains in Pittsburgh, PA in our possession and is available for inspection upon request. At this time, the failure has not been reproduced or confirmed by a BMW dealer, nor has it been inspected by the manufacturer, police, or insurance representatives. Importantly, there is an existing recall on VANOS bolts for the 328xi station wagon, but our vehicle’s production date ([XXX]) falls just outside the recall window of October 1, 2009–August 4, 2011. Notably, for the sedan body model, the recall window was extended until December 6, 2011.  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11677561,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/05/2025",
+      "dateComplaintFiled": "07/31/2025",
+      "vin": "WBA3C1C52CF",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "Dealer refused to cover DME that failed immediately after recall 24V-608 work.   In early June 2025, I contacted my local BMW dealership about an overheat notification I received while driving. They confirmed there was an open recall on the vehicle for a water pump connector (Recall 24V-608). I had the vehicle towed to their location. They sent me a video walkaround that characterized everything looked good, except the water pump connector which had failed.   Several days later, I was informed the recall repair had been completed but when they plugged in the new water pump connector, the DME shorted and they had to unhook the battery. Despite my best attempts to get this consequential damage covered as part of the recall work, BMW refused. I was told I had to come pick up the car as-is or pay for repairs.   When I looked into the issue further online, I learned that if I had chosen to pick up the car, hook up the battery and attempt to start and drive it, I could have found myself stuck inside the car (electronic locks) with a DME that literally caused the whole car to start on fire. Thank goodness I didn't go that route.  After further investigation into the recall issue (24v-608), I have learned the entire basis of the recall was risk of a \"thermal event\" caused as a result the faulty water pump connector shorting out. BMW never denied this when I brought it up. It is infuriating that BMW is suggesting the DME shorting out is not related to or covered by the water pump recall issue. A risk of thermal event is stated in the recall notice, and the DME literally shorted out DURING the recall repair work. They quoted me something like $5,000-7,000 to have the car drivable again. I'm at a complete loss.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11674633,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/18/2025",
+      "dateComplaintFiled": "07/18/2025",
+      "vin": "WBAKE5C57CJ",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated that while driving at an undisclosed speed, the temperature gauge indicated that the engine was overheating, and shortly afterwards the vehicle lost motive power in the middle of the roadway. The contact stated that several unknown warning lights were illuminated. The vehicle was taken to the dealer, who diagnosed a failure with the fuse box. The contact was informed that the fuse box had melted and was stuck to the battery. The vehicle was not repaired. The manufacturer was not notified of the failure. The failure mileage was 161,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11674409,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/09/2025",
+      "dateComplaintFiled": "07/17/2025",
+      "vin": "WBAKE5C57CJ",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "My BMW IS OVERHEATING ITS BEEN IMAT BMW OF DOWNTOWN FOR 8 days and they’re trying to charge me to repair my melted fuse box,cooling systems and battery, damage that has occurred as a default of the pcv",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11669744,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/25/2025",
+      "dateComplaintFiled": "06/27/2025",
+      "vin": "WBA3C1C59CF",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "DRIVE TRAIN MALFUNCTION.  On  June 25th 2025, for the second time I got this Drive Train Malfunction Issue on my 328i 2012 Model. The car just stopped in middle of road ( thank GOD not on a freeway ; otherwise, this would have resulted in multi car accidents and could have costed people's life including mine ). The car just died and STOPPED all of a sudden in middle of road and when I tried to start it, it  only crank's . After waiting for about 10 minutes, it started . I had exactly same issue earlier in July 2024 and that time BMW service found high pressure fuel pump to be defective and they changed that.  I was told by my BMW dealer that certain model and year BMW has this issue and it is well know. But I do see BMW issuing to its customers  or doing anything. If the car just stops without any warning to pull over etc. while  you are driving is very serious is VERY SERIOUS and LIFE- THREATENING ISSUE .  Imagine one is driving at 70 miles an hour on a busy freeway and car abruptly stops ( like  my car did  , twice in last 11 months, thank god not on freeway though) and there are several cars behind you driving at more or less at same speed; this will result in multi cars collision and multiple accidents and deaths. I request NHTSA to take this serious issue on priority basis and do something ASAP.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11659080,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/05/2025",
+      "dateComplaintFiled": "05/05/2025",
+      "vin": "WBA3A5C50CF",
+      "components": "ENGINE AND ENGINE COOLING",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated that while starting the vehicle, the engine overheated, with a message that the engine was overheating displayed. The contact stated that while driving at an undisclosed speed, the vehicle stalled with the same message displayed. The vehicle was able to restart. The vehicle was towed to an independent mechanic, where the vehicle was not diagnosed or repaired. The vehicle was taken to the dealer, where it was not diagnosed or repaired. The manufacturer was not made aware of the failure. The approximate failure mileage was 172,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11657482,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/18/2025",
+      "dateComplaintFiled": "04/29/2025",
+      "vin": "WBA3A5C54CF",
+      "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated that while driving at an undisclosed speed, the temperature gauge started to indicate that the engine was overheating, prompting the contact to discontinue driving the vehicle. The check engine warning light was illuminated. The vehicle was not taken to the dealer or an independent mechanic. The vehicle was not repaired. After investigating the failure, the contact related the failure to NHTSA Campaign Number: 24V608000 (Engine and Engine Cooling, Electrical System). The VIN was included, but the vehicle had not been repaired. The manufacturer was not notified of the failure. The failure mileage was 140,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11654445,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/14/2025",
+      "dateComplaintFiled": "04/14/2025",
+      "vin": "WBADW3C58CE",
+      "components": "ENGINE AND ENGINE COOLING",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated that upon taking the vehicle to an independent mechanic for a diagnostic test, the mechanic discovered a defect with the VANOS bolts. The vehicle was then taken to another independent mechanic for a second opinion, and the contact was provided with the same information as the first mechanic. The contact was provided with information on NHTSA Campaign Number: 23V707000 (Engine and Engine Cooling); which the mechanic linked to the failure. The contact called two dealers and was informed that there were no recalls on the VIN. The contact was then referred to the manufacturer, who later referred the contact to the NHTSA Hotline to report the failure. The vehicle was not repaired. The failure mileage was approximately 90,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11654458,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/14/2025",
+      "dateComplaintFiled": "04/14/2025",
+      "vin": "WBA3A5G51CN",
+      "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+      "summary": "The contact owns a 2012 BMW 328I. The contact received notification of NHTSA Campaign Number: 24V608000 (ENGINE AND ENGINE COOLING, ELECTRICAL SYSTEM); however, the part to do the recall repair was unavailable. The local dealer was contacted, and it was confirmed that the part needed for the recall repair was not available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was made aware of the issue. The contact had not experienced a failure. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11651875,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/28/2025",
+      "dateComplaintFiled": "03/31/2025",
+      "vin": "WBA3A5C52CF",
+      "components": "ENGINE",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated while driving at approximately 65 MPH, the vehicle stalled. There was no warning light illuminated. The vehicle was taken to an independent mechanic to be diagnosed. The vehicle was not yet diagnosed or repaired. The manufacturer was not notified of the failure. The failure mileage was 99,263.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11649559,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/05/2025",
+      "dateComplaintFiled": "03/20/2025",
+      "vin": "WBAKE5C51CJ",
+      "components": "ENGINE",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated that while driving at various speeds, the vehicle failed to accelerate as intended while the accelerator pedal was depressed. In addition, the contact stated that there was white smoke coming from under the hood and from the exhaust tips. The check engine warning light was illuminated. The vehicle was taken to an independent mechanic, where it was diagnosed and determined that the coolant pump connector had failed and needed to be replaced. An appointment with the dealer was scheduled to inspect the vehicle. The vehicle was not repaired. The manufacturer was notified of the failure and referred the contact to the NHTSA Hotline for assistance. The failure mileage was approximately 106,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11638801,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/02/2024",
+      "dateComplaintFiled": "01/27/2025",
+      "vin": "WBA3A5C59CF",
+      "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated that while driving 65 MPH, a message to pull over immediately was displayed, and the vehicle stalled. The contact was able to pull to the side of the road. The vehicle failed to restart and was towed to the dealer, where it was diagnosed that the timing chain had failed and needed to be replaced. The vehicle was not repaired. Additionally, the contact received notification of NHTSA Campaign Number: 24V608000 (Engine and Engine Cooling, Electrical System); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was made aware of the failure. The failure mileage was approximately 114,000. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11634272,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/06/2025",
+      "dateComplaintFiled": "01/06/2025",
+      "vin": "WBA3A5G56CN",
+      "components": "ENGINE AND ENGINE COOLING",
+      "summary": "The contact owns a 2012 BMW 328I. The contact received notification of 24V608000 (Engine and Engine Cooling, Electrical System); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was made aware of the issue. The contact had not experienced a failure. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11630730,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/14/2024",
+      "dateComplaintFiled": "12/14/2024",
+      "vin": "WBA3A5C59CF",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "It’s sounds like it’s moving but it doesn’t.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11628286,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/02/2024",
+      "dateComplaintFiled": "12/02/2024",
+      "vin": "WBA3A5C51CF",
+      "components": "ELECTRICAL SYSTEM,ENGINE",
+      "summary": "The contact owns a 2012 BMW 328i. The contact received notification of NHTSA Campaign Number: 24V608000 (Engine and Engine Cooling, Electrical System); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The dealer was made aware of the issue and confirmed that parts were not yet available. The manufacturer was made aware of the issue and confirmed that parts were not yet available. The contact had not experienced a failure. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11628283,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/02/2024",
+      "dateComplaintFiled": "12/02/2024",
+      "vin": "WBA3A5C51CF",
+      "components": "ELECTRICAL SYSTEM,ENGINE",
+      "summary": "The contact owns a vehicle 2012 BMW 328i. The contact received notification of NHTSA Campaign Number: 24V608000 (Engine and Engine Cooling, Electrical System); however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The dealer was made aware of the issue and confirmed that parts were not yet available. The manufacturer was made aware of the issue and confirmed that parts were not yet available. The contact had not experienced a failure. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11626198,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/19/2024",
+      "dateComplaintFiled": "11/19/2024",
+      "vin": "WBA3C1C50CF",
+      "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated that while driving at an undisclosed speed, there was white smoke coming from the exhaust. There was no warning light illuminated. The vehicle was taken to an independent mechanic, who diagnosed a failure with the water pump plug connector. The vehicle was not repaired. The vehicle was then taken to the dealer, who confirmed the diagnosis. The vehicle was not repaired. After investigating the failure, the contact related the failure to NHTSA Campaign Number: 24V608000 (Engine and Engine Cooling, Electrical System); the VIN was included, but parts were not yet available. The manufacturer was notified of the failure but provided no assistance. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The failure mileage was 125,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11625247,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/09/2024",
+      "dateComplaintFiled": "11/14/2024",
+      "vin": "WBA3A5G57CN",
+      "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+      "summary": "The contact owns a 2012 BMW 328i. The contact stated that upon starting the vehicle, there was smoke coming out from the exhaust pipe, and there was a burning smell coming from the engine compartment. The check engine warning light was illuminated. The vehicle was taken to the dealer, where it was diagnosed that the oil pan was leaking near the water pump. The dealer replaced the thermostat gasket, the valve cover gasket, the cylinder head cover, the ISA screws and washer, the high-pressure pipe, and the gasket flange.  Additionally, the dealer performed an oil change and added coolant to the vehicle.  The vehicle was repaired. The contact later received notification of NHTSA Campaign Number: 24V608000(Electrical System, Engine and Engine Cooling); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was made aware of the failure and confirmed that the parts were not yet available. The failure mileage was approximately 115,783. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11621723,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/24/2024",
+      "dateComplaintFiled": "10/24/2024",
+      "vin": "WBA3A5G59CN",
+      "components": "ENGINE AND ENGINE COOLING,ELECTRICAL SYSTEM",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated that while driving at approximately 5 MPH, there was smoke coming from the engine compartment. The check engine warning light and several other unknown warning lights were illuminated. The contact received notification of NHTSA Campaign Number: 24V608000 (Engine and Engine Cooling, Electrical System); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was made aware of the failure. The failure mileage was unknown. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11613841,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/10/2024",
+      "dateComplaintFiled": "09/10/2024",
+      "vin": "WBAKE5C5XCJ",
+      "components": "ENGINE AND ENGINE COOLING",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated that while driving at an undisclosed speed, the vehicle stalled with the check engine warning light illuminated. The vehicle was restarted; however, the failure recurred. The vehicle was taken to an independent mechanic where it was diagnosed and determined that the VANOS assembly bolts had failed and needed to be replaced. The vehicle was not repaired. The dealer was contacted. The vehicle was not diagnosed or repaired. The manufacturer was made aware of the failure. The failure mileage was approximately 122,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11612022,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/08/2024",
+      "dateComplaintFiled": "09/01/2024",
+      "vin": "WBAUU3C5XCA",
+      "components": "UNKNOWN OR OTHER,ENGINE",
+      "summary": "Without warning and no OBD2 codes thrown, my car and many others in the E90 (2007-2012) 3-series (N52 engine) will stall, lose power, and/or burn excessive oil when the integral PCV - valve cover starts to clog.  Many owners on the BMW boards online have reported similar problems.  The E90 3-series BMWs have an integral, internal positive crankcase ventilation system as part of the engine's plastic valvetrain (engine cover or valve cover) cover.  Inside the valve cover is a series of cyclones that separate the oil from the valvetrain gasses and route the gasses to the PCV system.  Repair is > $4000",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11610358,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/10/2024",
+      "dateComplaintFiled": "08/23/2024",
+      "vin": "WBA3A5C59CF",
+      "components": "POWER TRAIN,AIR BAGS,VEHICLE SPEED CONTROL",
+      "summary": "My car lost power. It would come and go. Now it's gone. The codes that come up pertain to the wheel speed sensor and timing.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11609697,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/20/2023",
+      "dateComplaintFiled": "08/20/2024",
+      "vin": "WBAKF5C54CE",
+      "components": "POWER TRAIN",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated while driving at an undisclosed speed, the vehicle shuddered and stalled. The contact stated that the vehicle vibrated, and the brakes were independently activated. Additionally, the contact stated that the “Service Required” warning light was illuminated. The vehicle was not diagnosed or repaired by an independent mechanic or the dealer. The contact stated that recently the transfer case was replaced by an independent mechanic.  The manufacturer was made aware of the failure. The failure mileage was 110,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11595060,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/10/2024",
+      "dateComplaintFiled": "06/18/2024",
+      "vin": "WBA3A5C57CF",
+      "components": "ENGINE",
+      "summary": "I had just came off the interstate off ramp I-44 and Chestnut Expressway when out of nowhere my Drivetrain Malfunction warning came on then the car started shaking horribly and sounded awful. Pulled over immediately and it wouldnt restart and if it did it would shut itself off almost immediately. It is currently at BMW of Springfield, they said all my sensors are correct but believe that the timing chain guide teeth busted somehow in the engine?!? Thought it could be due to the VANOS recall but my VIN isn’t included and clearly should be.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11590053,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/25/2024",
+      "dateComplaintFiled": "05/22/2024",
+      "vin": "WBADW3C58CE",
+      "components": "ENGINE",
+      "summary": "I purchased this vehicle [XXX]. Within 2 days a rattle could be heard coming from bmw vanos area, VANOS is a variable valve timing system used by BMW on various automotive petrol engines since 1992. I ceased all use of this vehicle on [XXX], only 3 days. Through my own  research i found recall 23v-707 which lists my vehicle and this problem. I had the car towed to a bmw repair shop Harrison Motorsport. The owner said the engine needs to be replaced. Next I tried in Vane to get bmwna or bmwag to warrant this repair. I have numerous emails from bmwag of munich germany saying they are aware and their north america partners will be in touch. The recall states you may drive this vehicle even though it may produce a crash,,,,huh? I have another bmw specialist 4 miles from my home. I drove the car this time to Brian Motor Works. The owner here stated that without a doubt these bolts had come loose. We planned to have him fix it the next week. Still at this time there were no dashboard warnings or internal codes to be found. I tried to drive as slow as possible back home. I went 2 miles and the 1st lights appeared on the dashboard. The engine shut down and I narrowly avoided a crash. The engine will no longer turn over and I believe it has seized. Through research this issue was 1st admitted in 2014. bmw stated it illegal to sell this vehicle as a certified pre owned bmw until these bolts are checked and or replaced. Mine have never been checked or replaced. I am thankful each day that my family was not with me when this happened, My attention was totally on this vehicle when it lost all power to steer or brake. I was very lucky this day, but I fear others will not be so fortunate.  thank you. [XXX] [XXX] 770-329-6384 vin wbadw3c58ce[XXX] INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11588171,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/27/2024",
+      "dateComplaintFiled": "05/10/2024",
+      "vin": "WBA3A5G59CN",
+      "components": "ENGINE",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated that while driving at approximately 40 MPH, the vehicle stalled. No warning lights were illuminated. The vehicle was not able to be restarted. The contact stated that after various attempts, the vehicle was shifted in neutral to be towed. The vehicle was towed to an independent mechanic where it was diagnosed and determined that the engine needed to be replaced. The local dealer was made aware of the failure; however, the dealer confirmed that the vehicle was out of warranty. The vehicle was not repaired. The manufacturer was made aware of the failure; however, no assistance was provided. The failure mileage was approximately 133,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11581148,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/24/2024",
+      "dateComplaintFiled": "04/04/2024",
+      "vin": "WBADW3C58CE",
+      "components": "ENGINE AND ENGINE COOLING",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated while driving 30 MPH, there was an abnormal sound coming from the engine. There was no warning light illuminated. The contact stated that the failure had been recurring. The vehicle was taken to an BMW certified mechanic, where it was diagnosed, and the mechanic determined that the engine needed to be replaced. The vehicle was not repaired. The contact related the failure to NHTSA Campaign Number: 23V707000 (Engine and Engine Cooling). The dealer and the manufacturer were notified of the failure and informed the contact that the VIN was not included in the recall. The failure mileage was approximately 138,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11579264,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/24/2024",
+      "dateComplaintFiled": "03/25/2024",
+      "vin": "WBAKE5C52CJ",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "Yesterday morning 3/24/24 , car stalled on highway with Fuel Pump message on dashboard. Car would not start and had to be towed.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11564108,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/14/2020",
+      "dateComplaintFiled": "01/08/2024",
+      "vin": "WBA3A5C57CF",
+      "components": "ENGINE",
+      "summary": "As I was going down the highway may car lost power. I had to pull onto the shoulder and turned the car off. I then tried to start it but is would not start back up. I left it on the side of the highway for a few hours. Went back and it started back up but it was in limp mode, so I drove it to a shop. This car gave me no problems until this point. The shop I took it to couldn't help me. So I took it to Century BMW in Greenville SC. They told me I needed a motor that was going to cost me $14,000 to fix. I asked them to put my motor back together ( the top part of the motor). They informed me it would cost me $600 to do so. I got my car back with the motor not put back like they got it. It has been sitting every since.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11549720,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/07/2022",
+      "dateComplaintFiled": "10/13/2023",
+      "vin": "WBA3C1C50CF",
+      "components": "AIR BAGS,SEAT BELTS,SEATS",
+      "summary": "Passenger restraint system malfunction. My vehicle as well as thousands of others have the chronic and unsafe issue of the passenger occupancy sensor malfunctioning. In order to remove warning on dash it’s either a $2,000 repair, or a $40 bypass which basically places the seat as constantly occupied, sticking the passenger airbag in the ‘on’ position. Vehicle is available for inspection. With this malfunction, any person that sits in the passenger front seat is at risk of injury or death in the event of a collision. Malfunction has been confirmed by both a dealer and an independent service center. Vehicle was inspected by the dealer, but no police or insurance company. Vehicle was purchased with the malfunction and the warning lights have been on for several years. With the massive number of vehicles of this make with a range of different mileage, with this issue, a recall is not only needed but warranted and should be mandated with this being a major safety issue.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11547681,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/24/2023",
+      "dateComplaintFiled": "10/02/2023",
+      "vin": "WBA3A5C54CF",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated that the temperature sensor on the instrument panel had initially failed to operate as needed; over time, the entire instrument panel had gone blank while the vehicle was being driven. In addition, the battery would continue to run while the vehicle was turned off; as a result, the vehicle would shut off while driving at various speeds. The vehicle was taken to various independent mechanics and each stated that the instrument cluster was defective. Despite multiple battery and temperature gauge replacements, the failure persisted. The manufacturer was notified of the failure and informed him that there were no recalls on the vehicle and referred the contact to the NHTSA Hotline for assistance. The vehicle was not repaired. The failure mileage was approximately 84,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11533623,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/14/2023",
+      "dateComplaintFiled": "07/21/2023",
+      "vin": "WBA3A5G52CN",
+      "components": "ENGINE AND ENGINE COOLING",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated during cold starts, there was a large puff of bluish-white smoke coming from the tail pipe. The contact stated no warning light was illuminated. The contact had taken the vehicle to an independent mechanic, where it was diagnosed and determined that the oil supply line needed to be replaced. The vehicle had not been repaired. The contact stated that the failure had become a recurring failure. The independent mechanic researched online and related the failure to manufacturer Voluntary Emissions Recall Campaign Number: 16E-A05 Engine; Replace Turbocharger Oil Supply Line (Engine and Engine Cooling). The manufacturer had been informed of the failure. The failure mileage was approximately 65,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11531683,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/11/2021",
+      "dateComplaintFiled": "07/11/2023",
+      "vin": "WBA3A5C57CF",
+      "components": "POWER TRAIN,VEHICLE SPEED CONTROL",
+      "summary": "The contact owns a 2012 BMW 328I.The contact stated while driving 70 MPH, the vehicle independently accelerated at high speed before the vehicle shut off with the message “Transmission Not in Park” displayed. The contact was able to pull over on the side of the road, and after the vehicle cooled down the contact was able to restart the vehicle and the vehicle operated normally. The vehicle was taken to the dealer and the fuel pump was replaced but the failure reoccurred. The vehicle was taken to an independent mechanic, but no cause for the failure was found. The vehicle was taken to the dealer and no failure was found. The vehicle was not repaired. The manufacturer was contacted and stated that the VIN was not under recall for the failure. The failure mileage was 117,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11529259,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/28/2023",
+      "dateComplaintFiled": "06/27/2023",
+      "vin": "WBA3A5C56CF",
+      "components": "ENGINE",
+      "summary": "My 2012 BMW 328i (F30 with N20 engine) had the dreaded timing chain guide failure, which is a very common issue with the N20 engine. There has been a warranty extension- https://static.nhtsa.gov/odi/tsbs/2017/MC-10142923-9999.pdf and class action settlement- https://static.nhtsa.gov/odi/tsbs/2021/MC-10201140-9999.pdf for this. But these doesn't address the safety concern. There has been numerous reports of timing chain & guide failures happening everyday in the various forums. The broken guides can lead to sudden engine failure and a loss of power to the vehicles. If this happens on the highway, this could be life threatening for the passengers. I kindly request NHTSA to look into this problem and issue a recall.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11511207,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/15/2022",
+      "dateComplaintFiled": "03/10/2023",
+      "vin": "WBAKF5C55CE",
+      "components": "ENGINE AND ENGINE COOLING",
+      "summary": "The contact’s mother owns a 2012 BMW 328I. The contact stated while driving 30 MPH, the vehicle was overheating and there was a burning plastic odor coming from the A/C vents. The contact veered to the side of the road and turned off the vehicle. The check engine warning light and the coolant temperature warning light were illuminated. Additionally, upon parking the vehicle for 10 minutes, there was smoke coming from underneath the hood of the vehicle. The vehicle was towed to an independent mechanic several times, where the cooling system components were replaced; however, the failure persisted. The contact stated that the failure occurred after driving for 20-30 minutes. The contact became aware that the VIN was included in NHTSA Campaign Number: 22V119000 (Engine and Engine Cooling); which she related to the failure. The dealer and the manufacturer were not notified of the failure. The vehicle was not repaired. The failure mileage was approximately 125,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11492837,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/07/2022",
+      "dateComplaintFiled": "11/09/2022",
+      "vin": "WBA3A5C52CF",
+      "components": "ENGINE",
+      "summary": "BMW Drivetrain malfunction. Timing chain replacement kit. Pump module with Vanos units and solonoids",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11489665,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/02/2022",
+      "dateComplaintFiled": "10/17/2022",
+      "vin": "WBAKF3C56CE",
+      "components": "ELECTRICAL SYSTEM,AIR BAGS",
+      "summary": "My BMW 2012 E92 model vehicle currently has a malfunctioning Front Seat Occupancy AirBag sensor mat is very similar to the recall for E60 to E91 models. BMW refuses to fix it under the other recall and I'm wondering what can be done to add it to the recall? I also read of an extended warranty for this part but I do not qualify since my model is e92.( SI B01 01 18) . Please advise.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11483291,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/07/2022",
+      "dateComplaintFiled": "09/07/2022",
+      "vin": "WBA3A5C56CF",
+      "components": "ENGINE",
+      "summary": "The contact owns a 2012 BMW 328I. The contact stated while driving 40 MPH, the vehicle stalled. The contact stated that the \"Contact BMW\" and \"Stop Driving\" messages were displayed. The contact stated that the power brakes and power steering became inoperable whenever the vehicle stalled. The contact stated that the vehicle stalled at various speeds and became more frequent. The contact pulled off the roadway and was able to restart the vehicle after several attempts. The contact stated that the vehicle started and shifted to Limp Mode. The contact disconnected the battery to reset the function on the vehicle. The contact stated that after one failure, the vehicle failed to start and was towed to his residence. The vehicle was not taken to an independent mechanic or dealer. The vehicle had not been diagnosed or repaired. The manufacturer had not been informed of the failure. The failure mileage was approximately 96,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11472896,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/10/2022",
+      "dateComplaintFiled": "07/08/2022",
+      "vin": "WBAKE3C58CE",
+      "components": "ENGINE AND ENGINE COOLING",
+      "summary": "The contact owns a 2012 BMW 328I. The contact received notification of NHTSA Campaign Number: 22V119000 (Engine and Engine Cooling) however, the part to do the recall repair was not yet available. The dealer had been notified about the issue and confirmed that parts were not yet available. The contact stated that while driving at various speeds, the vehicle would hesitate upon depression of the accelerator pedal without warning. The manufacturer had been notified of the issue. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The failure mileage was approximately 146,000. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11465158,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/18/2022",
+      "dateComplaintFiled": "05/18/2022",
+      "vin": "wbake5c5xce",
+      "components": "ENGINE AND ENGINE COOLING",
+      "summary": "The contact owns a 2012 BMW 328i. The contact received notification of NHTSA Campaign Number: 22V1190000 (Engine and Engine Cooling) however, the part to do the recall repair was not yet available. The contact stated that while driving at an undisclosed speed, there was smoke coming from underneath the hood. The vehicle was not diagnosed nor repaired by an independent mechanic or dealer. The manufacturer was not made aware of the failure. The failure mileage was approximately 78,000. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11464808,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/01/2022",
+      "dateComplaintFiled": "05/16/2022",
+      "vin": "wbake3c58ce",
+      "components": "ENGINE AND ENGINE COOLING",
+      "summary": "The contact owns a 2012 BMW 328i. The contact received notification of NHTSA Campaign Number: 22V119000 (Engine and Engine Cooling) however, the part to do the recall repair was not yet available. The dealer had been notified about the recall and confirmed that parts were not yet available. The manufacturer had been notified of the recall. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The contact had not experienced a failure. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11460949,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/15/2022",
+      "dateComplaintFiled": "04/15/2022",
+      "vin": "wba3a5c58cf",
+      "components": "ENGINE",
+      "summary": "I hear a whining noise coming from the engine and sounds like the timing chain is getting ready to snap. this is a common problem in this type of engine, resulting in a damaged engine.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11455741,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/06/2022",
+      "dateComplaintFiled": "03/08/2022",
+      "vin": "WBADW3C58CE",
+      "components": "VISIBILITY,EXTERIOR LIGHTING",
+      "summary": "The contact owns a 2012 BMW 328i. The contact stated while driving approximately 15 MPH and making a right turn into a parking lot, the turn signals, interior lights, and instrument panel lights became inoperable. Additionally, the side-view mirrors no longer operated as needed. The contact stated no warning light was illuminated. The contact drove the vehicle to the dealer where the vehicle was diagnosed and found that the footwell module needed to be replaced. The contact was informed that the vehicle was no longer under warranty and also not covered under a recall. The vehicle was not repaired. The manufacturer had been informed of the failure. The failure mileage was approximately 46,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11447428,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/26/2021",
+      "dateComplaintFiled": "01/13/2022",
+      "vin": "WBA3A5C57CF",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "Car stop completely on main st / took car to dealer and they said it’s the fuel pump ( defective ) / cost to replace about 2000. Lucky no lots of cars behind us at the time ( 2012 / 328 i BMW )",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11442275,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/23/2021",
+      "dateComplaintFiled": "12/01/2021",
+      "vin": "WBA3A5C5XCF",
+      "components": "ENGINE",
+      "summary": "On 23 Nov at approx 8:30 pm I was on I35N heading home in my 2012 BMW 328i. Out of nowhere I get a low oil pressure light, followed immediately by the Drivetrain malfunction light. I pulled over to the side of the road immediately for safety.  I stopped the engine and sat for a couple of minutes to see if the error may have cleared, which it did not.  I attempted to restart the engine and it would not start again.  I had the vehicle towed to BMW.   Upon speaking to BMW today, I was told that the cause of failure was a timing chain malfunction/break which renders the engine inoperative.  The cost of a replacement is approx 15k-17k I was told.  At no time did I get any indication or warning that something was wrong with the car.  The car had been running fine until this incident, now I'm without a car and have to make a tough decision because of it.  I've owned this car since it was brand new and never had an issue with it until now.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11436076,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/04/2021",
+      "dateComplaintFiled": "10/08/2021",
+      "vin": "WBA3A5C53CF",
+      "components": "ENGINE",
+      "summary": "The contact owns a 2013 BMW 328I. The contact stated that while his daughter was driving approximately 35 MPH, the vehicle stalled with the check oil warning light illuminated. The low oil pressure and drive train message were displayed. The vehicle was towed to the local dealer but was not diagnosed or repaired. The manufacturer was notified of the failure however, no further assistance was provided. The approximate failure mileage was 123,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11433454,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/17/2021",
+      "dateComplaintFiled": "09/18/2021",
+      "vin": "WBA3A5C53CF",
+      "components": "POWER TRAIN",
+      "summary": "While driving car at speeds <30 mph, on hitting a minor bump on the road, car engine suddenly stopped with a \"Drivetrain malfunction\" error. The car lost all power within a few seconds, including power steering. The instrument cluster was off except for error message. Transmission shifted to Neutral automatically which I believe is by design. On somehow maneuvering in traffic and coasting to a stop, and waiting a  minute and pressing the ignition start button, car powered on immediately and was driveable. The same incident repeated within 30 miles of driving. A local authorized service center found no existing problems although there are several error messages logged by the on board computer. The safety is severely compromised and the car can be easily rear-ended since hazard light signals also failed. The vehicle has otherwise been regularly maintained at authorized service centers.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11433142,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/29/2021",
+      "dateComplaintFiled": "09/15/2021",
+      "vin": "WBA3A5C50CF",
+      "components": "ENGINE",
+      "summary": "N20 Timing Chain failure/broke.  My daughter's safety was put at risk because the chain broke while she was driving on a 2 lane back road, causing the vehicle to go into limp mode. The car stopped suddenly, in the middle of the road. The problem has been confirmed at the BMW service center. We have since found out that this is a known problem that BMW North America is aware of, and several class action lawsuits have been filed. The \"transmission malfunction warning\" appeared on the dashboard within seconds before the timing chain failure.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11430568,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/24/2021",
+      "dateComplaintFiled": "08/25/2021",
+      "vin": "WBA3A5C54CF",
+      "components": "ENGINE",
+      "summary": "The car is burning oil badly and making an annoying squeaking noise due to a valve cover gasket failure. I took the car to the BMW dealership for diagnosis and I’ve been told it’s a common problem with ALL BMW once they  reach 50k miles and up. The mechanic said it’s because the part is made with a cheap plastic and it’s get worn easily by the heat . It’s cost up to 2000 dollars to fix, BMW should have a recall to resolve the issue.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11395466,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/03/2015",
+      "dateComplaintFiled": "02/09/2021",
+      "vin": "WBA3A5C52CF",
+      "components": "SEAT BELTS,SEATS,UNKNOWN OR OTHER",
+      "summary": "THE SEAT IS ALWAYS MAKING A NOISE THAT I HAVE TO PUT THE SEAT BELT FOR THE PASSENGER SIDE EVEN THOUGH THERE IS NO ONE BESIDE ME AND SINCE 2014 I HAVE A PROBLEM WITH THE TIME CHAIN I WAS WAITING FOR A RECALL THAT BMW NORTH AMERICA AND NO ONE CALLED ME",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11394807,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/02/2020",
+      "dateComplaintFiled": "02/05/2021",
+      "vin": "WBA3A5C56CF",
+      "components": "AIR BAGS",
+      "summary": "THE CAR IS GIVING ME A CODE STATING THAT THERE IS A PASSENGER RESTRAINT SYSTEM MALFUNCTION. HUNDREDS OF THOUSANDS OF BMWS HAVE BEEN RECALLED FOR THE EXACT SAME PROBLEM BUT THEY ARE NOT COVERING MY MAKE, MODEL AND YEAR VEHICLE EVEN THOUGH IT IS THE EXAM SAME ISSUE",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11391048,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/29/2020",
+      "dateComplaintFiled": "02/01/2021",
+      "vin": "WBA3A5C55CF",
+      "components": "ENGINE",
+      "summary": "BMW SAYS THIS CAR HAS A DEFECTIVE TIMING CHAIN MODULE THAT WILL CAUSE ENGINE FAILURE. I HAD TO HAVE MY CAR TOWED BECAUSE OF THIS PROBLEM. THE ENGINE FAILED WHILE I WAS ON THE HIGHWAY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11383451,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/16/2020",
+      "dateComplaintFiled": "12/14/2020",
+      "vin": "WBA3A5C5XCF",
+      "components": "ENGINE",
+      "summary": "GOT A CODE FOR LOW PRESSURE AND THEN DRIVE TRAIN MALFUNCTION TOOK IT TO BMW AND THEY TOLD ME I WAS COVERED BY WARRANTY BUT AFTER THEY DIAGNOSED THE CAR THEY SAID I WAS NOT. IT IS A 2012 WITH ONLY 67K MILES AND I WAS VERY UPSET WITH BMW. IT IS GETTING FIXED AT A LOCAL GERMAN SHOP RIGHT NOW AND IS GOING TO BE A LOT OF MONEY",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11383126,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/13/2020",
+      "dateComplaintFiled": "12/12/2020",
+      "vin": "WBA3A5C53CF",
+      "components": "POWER TRAIN",
+      "summary": "WHILE IN MOTION ON A COUNTY ROAD, THE SERVICE ENGINE LIGHT CAME ON AND CAR STARTED RUNNING VERY ROUGH. CAR WAS TOWED TO THE DEALERSHIP. WHINING NOISE COMING FROM THE TIMING CHAIN. WORN CRANKSHAFT SPROCKET.  HAD TO REPLACE THE TIMING CHAIN AND OIL PUMP DRIVE CHAIN.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11372942,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/04/2020",
+      "dateComplaintFiled": "11/04/2020",
+      "vin": "WBA3A5C59CF",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "FAILING TIMING CHAIN. MANUFACTURING DEFECT BUT NOT COVERED BY BMW BECAUSE \"THE VIN DOESN'T SHOW AS COVERED IN OUR SYSTEM\". SOME OTHER VEHICLES HAD EXTENDED WARRANTY FOR THIS ISSUE UNTIL 70,000 MILES BUT FOR SOME REASON NOT ALL VIN'S ARE COVERED. PLEASE SEE OTHER ISSUES WITH THE N20 ENGINE ACROSS THE 3 SERIES, 5 SERIES AND X3 AND YOU WILL SEE MANY PEOPLE REPORTING THE SAME ISSUE. THIS NEEDS A RECALL. NOT FAIR TO HAVE THIS ISSUE FOR SO MANY CUSTOMERS",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11365410,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/01/2019",
+      "dateComplaintFiled": "10/20/2020",
+      "vin": "WBA3A5C59CF",
+      "components": "SEATS",
+      "summary": "PASSENGER RESTRAINED SYSTEM LIGHT CAME ON. IT IS SOMETHING VERY COMMON IN VEHICLES LIKE MINE. I HEARD A LOT OF PEOPLE HAVE THE SAME ISSUE AS MINE. IT IS VERY UNFORTUNATE BECAUSE BMW SHOULD HAVE AN EXTENDED WARRANTY REGARDING THIS ISSUE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11365129,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/06/2020",
+      "dateComplaintFiled": "10/19/2020",
+      "vin": "WBA3A5C50CF",
+      "components": "ENGINE",
+      "summary": "I WAS DRIVING DOWN THE ROAD AT 60MPH THE COMPUTER FLASHED LOW OIL PRESSURE, THEN DRIVE TRAIN MALFUNCTION. THE ENGINE STARTED MAKING A LOUD NOISE AND MOST COMPLETE POWER TO CAR. CAR HAD TO BE TOWED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11364827,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/23/2020",
+      "dateComplaintFiled": "10/17/2020",
+      "vin": "WBA3A5C56CF",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "TIMING CHAIN PROBLEMS, THE CAR STOP IN THE MIDDLE OF THE ROAD",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11355036,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/22/2020",
+      "dateComplaintFiled": "09/14/2020",
+      "vin": "WBA3A5C56CF",
+      "components": "ENGINE",
+      "summary": "I WAS ABOUT A QUARTER MILE FROM MY HOME WHEN MY 2012 328  N20 BEGAN TO MAKE A LOUD SOUND COMING FROM ENGINE. THE CAR ALSO STARTED TO IDLE VERY ROUGH. CHECK ENGINE LIGHTS WENT OFF. I HAD THE CAR TOWED TO MY BMW MECHANIC AND THEY DIAGNOSED AN ISSUE WITH THE TIMING CHAIN. THEY VERIFIED A NOISE AND A VERY LOOSE TIMING CHAIN. TIMING CHAIN AND GUIDE REPAIR WAS PERFORMED AT A HIGH COST. MILEAGE IS 127500.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11343093,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/01/2020",
+      "dateComplaintFiled": "08/03/2020",
+      "vin": "WBAUT9C53CA",
+      "components": "ELECTRICAL SYSTEM,ENGINE",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT STATED THAT WHILE DRIVING 40 MPH, THE VEHICLE STALLED WITHOUT WARNING. THE CONTACT STATED AFTER 30 MINUTES THE VEHICLE RESTARTED AND HE DROVE TO HIS DESTINATION. THE CONTACT STATED 2 WEEKS LATER, HE WAS UNABLE TO START THE VEHICLE. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC HOWEVER, THE MECHANIC WAS UNABLE TO DUPLICATE THE FAILURE. A DEALER WAS NOT CONTACTED. UPON INVESTIGATION, THE CONTACT ASSOCIATED THE FAILURE WITH NHTSA CAMPAIGN NUMBER: 13V044000 (ELECTRICAL SYSTEM), HOWEVER THE VIN WAS NOT INCLUDED. THE VEHICLE WAS NOT DIAGNOSED NOR REPAIRED. THE MANUFACTURER WAS INFORMED OF FAILURE. THE FAILURE MILEAGE WAS 110,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11339615,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/10/2020",
+      "dateComplaintFiled": "07/15/2020",
+      "vin": "WBAKE3C50CE",
+      "components": "UNKNOWN OR OTHER,STRUCTURE",
+      "summary": "ON 7/10/2020 VEHICLE WAS BACKED IN AND PARKED IN DRIVEWAY ON A SLIGHT INCLINE.  WE HAD A HEAVY RAINFALL (ITS STORM SEASON)  NEXT MORNING WENT TO GET IN CAR, THERE WAS 2 TO 3 INCHES OF WATER ON THE DRIVER AND PASSENGER FLOORBOARD  MOON ROOF CLOSED, WINDOWS UP.  WATER SEEMED TO BE DRIPPING FROM UNDER THE DASHBOARD. CHECKED VENTS UNDER HOOD, CLEAR.  CLEANED IT ALL UP AND DRY VACUUMED.     TODAY, 7/15/2020 ANOTHER ROUND OF HEAVY RAINFALL...CAR PARKED IN DRIVEWAY ON SLIGHT SLOPE, ALL CLOSED UP.  CHECKED AFTER RAIN STOPPED, ON PASSENGER SIDE 2 INCHES OF RAIN, DRIVER SIDE 1 INCH OF RAIN.  DRIPS APPEARED TO BE COMING OUT OF PASSENGER VISOR MIRROR.  IMMEDIATELY DRIED IT UP WITH TOWELS.  NO ACCESS TO NEIGHBORS DRY VAC TODAY (THEY ARE OUT OF TOWN).   I HAVE ALREADY HAD TO REPLACE THE SEAL AROUND THE WINDSHIELD ONCE AND I BELIEVE IT IS POSSIBLY THE SEAL AGAIN.  HAVE NOT GONE TO DEALERSHIP YET, I AM BUSY WITH A FUNERAL IN THE FAMILY.    I SEE I COULD HAVE SENT A PHOTO, I WAS UNAWARE UNTIL I RESEARCHED POSSIBLE RECALLS OF THIS WEBSITE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11330954,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/01/2020",
+      "dateComplaintFiled": "06/26/2020",
+      "vin": "WBA3A5G52CN",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "I WAS CRUISING ON THE HIGHWAY WHEN MY IDRIVE DISPLAYED 'LOW OIL PRESSURE WARNING' AND 'DRIVETRAIN MALFUNCTION,' THE ENGINE WEIRD NOISES BEFORE IT SHUTDOWN AND WENT INTO NEUTRAL WHILE I WAS STILL AROUND TRAFFIC. I BARELY MADE IT A SAFE PLACE TO STOP AS I HAD TO COAST UP A HILL AND THEN TURN WITH WHATEVER MOMENTUM I HAD. THE STEERING WHEEL AND BRAKES WERE EXTREMELY HARD TO MOVE. I GOT MY CAR TOWED AND HAD A DIAGNOSTIC TEST FOR CODES SHOWN IN THE ATTACHED SCREENSHOT. HAD A CERTIFIED MECHANIC TAKE A LOOK AND WAS TOLD BY SEVERAL OTHER MECHANICS AS WELL THAT OIL STARVATION DESTROYED THE ENGINE AS A RESULT OF OIL PUMP FAILURE. NO SIGN OR PREMATURE WEAR WITH A VERY GENEROUS 5,000 MILE OIL & FILTER CHANGE INTERVAL AND BEEN IN THE HANDS OF BMW DEALERSHIPS FOR ALL IT'S LIFE.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11320595,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/02/2020",
+      "dateComplaintFiled": "04/08/2020",
+      "vin": "WBA3A5C58CF",
+      "components": "SERVICE BRAKES,ENGINE",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT STATED THAT THE VEHICLE WAS TAKEN TO ROADSHOW BMW (405 N. GERMANTOWN PKWY #6207, CORDOVA, TN 38018, (901) 365-2584) FOR AN OIL CHANGE. THE CONTACT WAS INFORMED OF AN OIL LEAK AT THE OIL FILTER HOUSING GASKET. THE VEHICLE WAS REPAIRED. THE CONTACT WAS THEN INFORMED THAT THE VACUUM PUMP ALSO SHOWED EVIDENCE OF A LEAK. THE CONTACT REFERENCED THE FAILURE TO NHTSA CAMPAIGN NUMBERS: 13V454000 (SERVICE BRAKES, HYDRAULIC) AND 14V627000 (SERVICE BRAKES HYDRAULIC). THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 108,000. *LN*DT*JB",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11318841,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/01/2019",
+      "dateComplaintFiled": "03/20/2020",
+      "vin": "WBA3A5C52CF",
+      "components": "UNKNOWN OR OTHER,ENGINE",
+      "summary": "BMW REFUSED TO RECALLS 2012 TO 2014 VEHICLES WITH FAULTY TIMING CHAINS, OIL CHAIN, AND TENSIONER. WHEN I CONTACTED BMW THEY STATED IT WAS ONLY COVERED TO 70,000 MILES. I PURCHASED A 120,000 MILES WARRANTY , I WAS NEVER INFORMED BY BMW WEST  THE SERVICE CENTER ABOUT THIS RECALL. AT A 120,000 MILES TOOK MY CAR INTO BE SERVICED AND WAS TOLD THE TIMING CHAIN, OIL CHAIN AND TENSIONER NEEDED TO BE REPLACED AT THE COST OF 4,400.00, IF THE THE CHAIN HAD CAME OFF OF THE TENSIONER AND RUIN IT MOTOR THAT COULD BE FROM 12,000.00 TO 22,000.00. SO MANY ARE EXPERIENCING THE SAME PROBLEM. MY CAR HAS BEEN SITTING FOR 6 MONTHS UNABLE TO DRIVE IT DUE TO THE DANGER . CAR MAKES I HIGH PITCH WHINING SOUND AND JUMPS OUT OF GEAR, CHECK ENGINE LIGHT STATES ON.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11318854,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/08/2019",
+      "dateComplaintFiled": "03/20/2020",
+      "vin": "WBA3C1C54CF",
+      "components": "ENGINE",
+      "summary": "TIMING CHAIN (N26 ENGINE) IS LOOSE. MECHANIC RECOMMENDED CHANGING TIMING CHAIN AND ENGINE PUMP BEFORE DESTROYING THE ENGINE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11306918,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/03/2020",
+      "dateComplaintFiled": "02/04/2020",
+      "vin": "WBA3A5C55CF",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "FUEL TANK LEAK. CAR STARTED SMELLING LIKE GAS. NOTICED AFTER PUMPING GAS - GAS STARTING POURING / LEAKING OUT OF FUEL TANK IN DAUGHTERS CAR ON LEFT SIDE. TOOK TO SHOP, SAID ENTIRE FUEL TANK AND WAS TOLD ENTIRE TANK WITH FUEL HOSE PIPE WOULD NEED TO BE REPLACED DUE TO CRACK IN TANK / FUEL PIPE. SHOP SAID SHOULD NOT BE HAPPENING AND IS PROBABLY FAULTY.  EXPENSIVE REPAIR, BMW SHOULD RECALL THE 3 SERIES ALONG WITH THE OTHER FUEL TANK / FUEL SYSTEMS THAT THEY RECALLED FOR THE 5 AND 7 SERIES. EXTREMELY DANGEROUS AND HAZARDOUS FOR THESE TO BE ON THE ROAD.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11299099,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/09/2020",
+      "dateComplaintFiled": "01/13/2020",
+      "vin": "WBA3A5C53CF",
+      "components": "ENGINE",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 60 MPH, WHEN THE LOW OIL PRESSURE WARNING LIGHT AND THE DRIVE TRAIN MALFUNCTION WARNING LIGHT ILLUMINATED. THE VEHICLE BEGAN TO REDUCE IN SPEED. THE CONTACT GOT OFF THE FREEWAY AND WHEN DOING SO THEY NOTICED A CLICKING NOISE COMING FROM THE UNDER THE HOOD OF THE VEHICLE. THE VEHICLE THEN TURNED OFF COMPLETELY. THE CONTACT HAD THE VEHICLE TOWED. THE CONTACT TOOK THE VEHICLE TO A CERTIFIED MECHANIC WHO DIAGNOSED THAT THE VEHICLE'S ENGINE LOCKED AND NEEDED TO BE REPLACED. THE CONTACT CONTACTED THE DEALER (LONG BEACH BMW LOCATED AT 1660 E SPRING ST, LONG BEACH, CA 90755   PHONE NUMBER 877-514-7977 ) WHO AGREED WITH THE CERTIFIED MECHANIC. THE VEHICLE HAD NOT BEEN REPAIRED. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 92,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11290659,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/15/2019",
+      "dateComplaintFiled": "12/21/2019",
+      "vin": "WBA3A5G57CN",
+      "components": "ENGINE",
+      "summary": "STALLED ON BUSY EXPRESS HIGHWAY, ALMOST RESULTING IN CRASH. TOWED TO SHOP. FUEL PUMP WAS DEFECTIVE AND IT COSTED 729.86 DOLLARS PLUS 140 DOLLARS TOWING.  THIS OCCURRED AT 60 MPH ON EXPRESS HIGHWAY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11290334,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/02/2019",
+      "dateComplaintFiled": "12/20/2019",
+      "vin": "WBA3A5G50CN",
+      "components": "ELECTRICAL SYSTEM,AIR BAGS,SEATS",
+      "summary": "PASSENGER RESTRAINT MALFUNCTION ERROR CODE COMES OFF AND ON WHILE IN MOTION",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11288059,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/01/2019",
+      "dateComplaintFiled": "12/09/2019",
+      "vin": "WBA3C1C57CF",
+      "components": "ENGINE",
+      "summary": "HELLO I OWN A BMW 328I WITH A N20 ENGINE, WHILE DRIVING DOWN THE HIGHWAY I GOT AN ALERT COME ACROSS MY SCREEN SAYING THAT THE OIL PRESSURE LOW AND TO STOP IMMEDIATELY OR ENGINE FAILURE MAY OCCUR. I DON'T HAVE TO TELL ANYONE HOW SCARY IT IS TO BE DRIVING DOWN THE HIGHWAY AND THINK THAT YOUR TIMING CHAIN MAY BREAK OFF AND YOU ARE STILL IN THE MIDDLE OF THE ROAD ,BUT I STOPPED AND TURNED THE CAR OFF. AFTER DOING SOME RESEARCH AND GETTING THE CAR DIAGNOSED I RAN INTO THE TIMING CHAIN GUIDE AND TIMING CHAIN ISSUE OF FAILING ON THESE CARS WAY BEFORE THEY HIT ANY HIGH MILES MY CAR CURRENTLY HAS 81K MILES ON IT AND THIS ISSUE HAS IMMOBILIZED MY CAR TO PREVENT FURTHER DAMAGE I WILL NOT DRIVE THAT CAR, WHEN TALKING TO BMW ABOUT THE ISSUE THEY TOLD ME THAT THEY DO KNOW ABOUT THE ISSUE BUT WILL NOT FIX IT FOR FREE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11286803,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/03/2019",
+      "dateComplaintFiled": "12/04/2019",
+      "vin": "WBA3A5C50CF",
+      "components": "AIR BAGS",
+      "summary": "PASSENGER SEAT MAT SENSOR FOR AIRBAG CONTROL IS MALFUNCTIONING. THE WARNING IS SHOWING THAT THE SYSTEM IS NOT WORKING PROPERLY AND THAT A SEAT BELT NEEDS TO BE CONTINUED TO BE WORN. DEALER PRICE TO FIX THIS SAFETY ISSUE IS APPROXIMATELY $1200.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11281940,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/04/2019",
+      "dateComplaintFiled": "11/23/2019",
+      "vin": "WBADW7C55CE",
+      "components": "ENGINE",
+      "summary": "I JUST RECENTLY HAD TO TAKE MY 2012 BMW 328I CONVERTIBLE IN BECAUSE OF THE ENGINE WAS MAKING A LOUD NOISE PLUS LOSS OF HP. THE TECHNICIAN INFORMED ME THAT THE VANOS SOLENOID BOLTS HAD BROKEN OFF INTO THE ENGINE AFTER DOING MORE RESEARCH INTO THIS I FIND THAT THERE WAS A RECALL ON THE VANOS GEAR BOLTS. MY QUESTION IS DO I PAY FOR THIS REPAIR?",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11280287,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/14/2019",
+      "dateComplaintFiled": "11/15/2019",
+      "vin": "WBA3A5C52CF",
+      "components": "ENGINE",
+      "summary": "I STARTED MY CAR AND GOT A DRIVETRAIN MALFUNCTION WARNING. DROVE IT STRAIGHT TO THE DEALERSHIP WHERE THEY TOLD ME MY TIMING CHAIN WAS STRETCHED, WHICH CAUSED A VANOS FAULT. THEY SUGGESTED REPLACING THE TIMING CHAIN AND OIL PUMP ($5500 REPAIR). THE CAR HAD 90K MILES.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11280041,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/25/2019",
+      "dateComplaintFiled": "11/14/2019",
+      "vin": "WBA3C1C57CF",
+      "components": "ENGINE",
+      "summary": "I NOTICED THAT THERE WAS WHITE SMOKE COMING FROM MY HOOD AND AIR VENTS WHILE DRIVING. I TOOK MY CAR TO THE BMW DEALER WHERE THEY SAID THAT THERE'S A A LEAK COMING FROM MY VALVE COVER ONTO MY EXHAUST THAT IS CAUSING THE SMOKE.PARTS AND LABOR CAME TO ROUGHLY $1500 DOLLARS. I GOT A SECOND OPINION FROM MY MECHANIC AND HE STATED THAT MY VALVE COVER MAY NOT BE DEFECTIVE BUT IT MAY BE MY GASKET AND I JUST NEED THE GASKET CHANGED. BMW STATED THAT EVEN THOUGH THE GASKET MAY NOT BE THE ISSUE, THEY WANTED TO CHANGE THE WHOLE COVER BECAUSE THEY'RE KNOWN TO BREAK. THEY REFUSED TO CHANGE JUST THE GASKET. THEY ARE WELL AWARE OF THE ISSUE AND THAT IT CAN CAUSE MY CAR TO CATCH FIRE. THEY SAID THAT IT WAS A QUICK FIX AND ALL THE PARTS ARE AVAILABLE BECAUSE THEY'VE HAD COUNTLESS CUSTOMERS WITH THE SAME ISSUE. I AM REACHING OUT BECAUSE I FEEL BMW IS AWARE OF THE POTENTIAL DANGER THIS ISSUE CAN CAUSE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11271263,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/12/2019",
+      "dateComplaintFiled": "10/26/2019",
+      "vin": "WBA3A5C51CF",
+      "components": "ENGINE",
+      "summary": "I WAS DRIVING NORMALLY WHEN A LIGHT CAME ON SAYING DRIVETRAIN MALFUNCTION. THE ENGINE STARTED TO STALL I PULLED OVER ON THE SIDE OF THE ROAD AND THE CAR JUST TURNED OFF AND NEVER TURNED BACK ON. HAD A MECHANIC CHECK AND TOLD ME THAT THE ENGINE SEIZED/LOCKED UP ON ME. I HAVE SERVICED MY VEHICLE AT THE BMW DEALER & HAVE ALL THE RECEIPTS. I BOUGHT THIS CAR USED ONE YEAR AND FIVE MONTHS AGO & I HAVE PROPERLY MAINTAINED IT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11259084,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/28/2019",
+      "dateComplaintFiled": "09/30/2019",
+      "vin": "WBAUT9C52CA",
+      "components": "SEAT BELTS",
+      "summary": "DRIVERS SIDE SEAT BELT RECEPTACLE WILL NOT ACCEPT BUCKLE.  FASTEN SEAT BELT WARNING DOES NOT SOUND.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11252386,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/15/2019",
+      "dateComplaintFiled": "08/30/2019",
+      "vin": "WBA3A5C58CF",
+      "components": "ENGINE",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. WHILE DRIVING 60 MPH, THE VEHICLE SEIZED WITHOUT WARNING. THE CONTACT MANAGED TO VEER TO THE SHOULDER OF THE ROAD AND ATTEMPTED TO RESTART THE VEHICLE, BUT IT LOST POWER. THE VEHICLE WAS TOWED BY THE CONTACT'S INSURANCE COMPANY TO BMW OF BEAUMONT (1855, I-10, BEAUMONT, TX 77701, (409) 840-3585) WHERE IT WAS DIAGNOSED THAT THE ENGINE FAILED AND NEEDED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE AND INFORMED THE CONTACT THAT THE VIN WAS NOT INCLUDED IN A RECALL. THE FAILURE MILEAGE WAS APPROXIMATELY 128,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11222111,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/21/2018",
+      "dateComplaintFiled": "06/24/2019",
+      "vin": "WBA3C1C56CF",
+      "components": "AIR BAGS,SEAT BELTS,SEATS",
+      "summary": "VEHICLE AT APPROXIMATELY 36,000 MILES STARTED EXHIBITING AN INTERMITTENT  WARNING FOR PASSENGER RESTRAINT SYSTEM MALFUNCTION.  BMW OF ONTARIO, CA DIAGNOSED THE ISSUE AS A FAULTY SEAT OCCUPANCY SENSOR, BUT DECLINED WARRANTY COVERAGE DUE TO VEHICLE AGE AND EXCLUSION FROM 3RD PARTY WARRANTY.      THIS APPEARS TO BE A FAIRLY WIDESPREAD ISSUE BASED ON: 1) MANY OF THE ONLINE OWNER FORUMS COVER THIS PROBLEM.  2) THE PROBLEM IS WIDESPREAD ENOUGH TO SUPPORT SEVERAL MANUFACTURERS MAKING AND SELLING BYPASS\\EMULATOR DEVICES TO CIRCUMVENT THE FAILED SENSOR.      A CRITICAL SAFETY DEVICE FOR CONTROLLING AIRBAG DEPLOYMENT SHOULD NOT BE FAILING SO EARLY OR FREQUENTLY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11221976,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/20/2019",
+      "dateComplaintFiled": "06/23/2019",
+      "vin": "WBA3A5G7CNN",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "WAS DRIVING ON THE HIGHWAY WHEN THE COMPUTER ADVISED TO PULL OVER IN A SAFE PLACE. I DID AND ENDED TOWING THE CAR TO THE DEALER FOR A DIAGNOSTIC. WAS TOLD THAT THE ENGINE HAD TO BE REPLACED BECAUSE THE HOUSING AROUND THE TIMING CHAIN BROKE FREE OBSTRUCTING THE OIL FLOW. THE COMPRESSION WAS GOOD BUT THEY RECOMMENDED THAT I REPLACED THE ENGINE AT A 23344.20 PLUS TAXES. NEEDLESS TO SAY I TOWED THE CAR HOME WITHOUT REPAIR. THIS IS A MANUFACTURED DEFECT BECAUSE REGULAR MAINTENANCE COULD NOT PREVENT THIS ENGINE DEFECT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11219201,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/14/2019",
+      "dateComplaintFiled": "06/11/2019",
+      "vin": "WBA3A5C55CF",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "DRIVING AT NORMAL HIGHWAY SPEEDS APPROX. 55 MPH, WHEN LOW OIL PRESSURE WARNING CAME ON AND DRIVE-TRAIN MALFUNCTION LIGHTS FLASHED ON SCREEN. CAR STALLED OUT AND WAS ALMOST UNABLE TO GET TO SIDE OF ROAD. CAR WAS TOWED TO BMW DEALER, CAUSE OF ENGINE FAILURE WAS DUE TO THE TIMING CHAIN AND GUIDE. WILL REQUIRE NEW ENGINE (OUT OF WARRANTY - BMW WILL NOT PROVIDE ASSISTANCE). AFTER ADDITIONAL RESEARCH IT HAS LED TO MY CONCLUSION THAT THIS IS A COMMON PROBLEM AND A CLASS ACTION LAW SUITE HAS BEEN SUBMITTED IN REGARDS TO EARLY MODEL N20 MOTORS. PREMATURE ENGINE FAILURE DUE TO TIMING CHAIN DEFECT.    CAR WAS WELL MAINTAINED WITH REGULARLY SERVICED OIL CHANGES, ETC. I HAVE ALL PARTS RECEIPTS FOR ALL SERVICE DONE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11206081,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/26/2019",
+      "dateComplaintFiled": "05/07/2019",
+      "vin": "",
+      "components": "POWER TRAIN,ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "I WAS DRIVING ON A BUSY HIGHWAY AND THE VEHICLE RANDOMLY STALLED AND LOST POWER.  DRIVETRAIN MALFUNCTION TROUBLE LIGHTS LIT UP THE DASH.  I WAS BARELY ABLE TO GET OUT OF TRAFFIC BEFORE COASTING TO A STOP.  I HAD THE VEHICLE TOWED TO BMW SOUTH AUSTIN AND IT WAS DIAGNOSED WITH A FAULTY FUEL TRANSFER PUMP, AND A FAULTY FUEL TANK.  ESSENTIALLY I HAD RUN OUT OF FUEL WITH 1/4 TANK SHOWING ON THE GAUGES.  BMW DENIED MY REQUEST TO REPAIR THE VEHICLE UNDER WARRANTY, EVEN THOUGH THERE IS AN EXTENDED WARRANTY ON THE \"IN TANK FUEL PUMP\".  I GUESS PEOPLE NEED TO DIE IN TRAFFIC WHEN THEY RUN OUT OF FUEL UNSUSPECTINGLY FOR BMW TO CARE OR ISSUE A RECALL.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11204311,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/26/2019",
+      "dateComplaintFiled": "04/29/2019",
+      "vin": "",
+      "components": "AIR BAGS",
+      "summary": "PASSENGER SEAT OCCUPANCY SENSOR FAILURE RENDERS PASSENGER SEAT AIRBAG SYSTEMS INACTIVE WHEN PASSENGER SEAT IS OCCUPIED. VEHICLE IS 2012 MODEL YEAR WITH APPROXIMATELY 80,000 MILES.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11195700,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/05/2019",
+      "dateComplaintFiled": "04/11/2019",
+      "vin": "WBA3A5G5CNP",
+      "components": "EXTERIOR LIGHTING,AIR BAGS,VEHICLE SPEED CONTROL",
+      "summary": "DRIVE TRAIN MALFUNCTION, REAR RIGHT BREAK LIGHT WARNING LIGHT IS ON WILL NOT GO OFF, HAD THE BULB CHANGED AND STILL NOT WORKING. DRIVE TRAIN GO ON WHEN TRYING TO GO INTO SPEED ON ALL FUNCTIONS SUCH AS ECO MODE, NORMAL MODE AND SPORT MODE. INDICATOR LIGHT GOES BACK TO NORMAL AFTER CAR IS COMPLETELY OFF AND UPON START UP LIGHT GOES OFF. RIGHT FRONT TIRE WHEN BEING DRIVEN SOUNDS LIKE A FLAT BUT WHEN CHECKED ON THE EXTERIOR, SEEM TO BE NO DAMAGE TO THE TIRE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11172382,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/03/2019",
+      "dateComplaintFiled": "01/27/2019",
+      "vin": "WBA3A5G52CN",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "WAS DRIVING ON HIGHWAY WHEN SUDDENLY CAR STOPPED AND WAS NOT ABLE TO PUT ON NEUTRAL I ALMOST GOT REAR ENDED BY SEVERAL CARS HAD TO BE TOWED CAR STILL DOESNT START",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11163894,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/12/2017",
+      "dateComplaintFiled": "12/28/2018",
+      "vin": "WBAKE5C52CJ",
+      "components": "AIR BAGS,SEAT BELTS,SEATS",
+      "summary": "EVERY SO OFTEN I GET AN ERROR MESSAGE THAT SAYS 'PASSENGER RESTRAINT SYSTEM MALFUNCTION'. I KNOW THIS IS A COMMON ERROR MESSAGE FOR BMW VEHICLES & THEIR OWNERS. I HAVE TAKEN IT TO THE DEALERSHIP AND BEEN TOLD THAT IT COULD BE REPAIRED AT MY EXPENSES...WHY?! WHEN SO MANY VEHICLES HAVE THE SAME ISSUE AND IT'S NOT USER ERROR...TIME FOR A RECALL! COME ON!",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11154194,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/12/2018",
+      "dateComplaintFiled": "11/27/2018",
+      "vin": "WBA3C1C56CF",
+      "components": "ENGINE",
+      "summary": "THE VEHICLE SUDDENLY STOPPED ON THE STATE HIGHWAY AND WILL NOT START AGAIN.  THE VEHICLE WAS SERVICED AT THE LOCAL DEALERSHIP  ON 09/08/2018 ON  FOR MAJOR REPAIRS INCLUDING OIL CHANGE AND ALL REQUIRED  MAINTENANCE WERE UP TO DATE.  THE VEHICLE WAS TOWED TO THE DEALER AND THE DEALER DIAGNOSED THE PROBLEM AND REPORTED THAT ENGINE IS JAMMED AND NEED TO BE REPLACED.  THE DEALER DID ALL THE MAINTENANCES AND I HAVE THE INVOICES TO DOCUMENT THE RECENT REPAIRS AND MAINTENANCE.  THE CAR HAD A SIMILAR PROBLEM IN THE PAST, STOPPING SUDDENLY ON THE HIGHWAY.  I THINK THE BMW ENGINE HAS PROBLEMS AND THE DEALER WHO DID THE LAST MAINTENANCE ALSO DID NOT DO A GOOD JOB.  I REQUEST TO TAKE THIS ISSUE WITH THE BMW CORPORATION AND HAVE THEM COVER THE DAMAGES.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11121807,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/01/2018",
+      "dateComplaintFiled": "08/23/2018",
+      "vin": "WBA3A5C59CF",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "INTERIOR DOORS HANDLE, MELTS WHEN ITS 80 DEGREES INSIDE THE CAR, IT LEAVES A STICKY FILM ON THE HAND. IT DOESN'T MATTER IF ITS STATIONARY, IN MOTION OR NOT. AS LONG AS ITS HOT INSIDE",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11111806,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": true,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/16/2018",
+      "dateComplaintFiled": "07/17/2018",
+      "vin": "WBA3A5C52CF",
+      "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+      "summary": "MY CAR WAS PARKED I STARTED IT RAN BACK IN HOUSE TO GET PHONE GOT IN CAR SMELT PLASTIC BUT IT WASN'T COMING FROM VENT GOT OUT CAR TO SMELL AROUND CAR AND WHEN I GOT TO TRUNK THE SMELL WAS LOUDER OPENED TRUNK AND A SMALL FIRE CAME UP LIKE A BARBECUE FIRE ON THE PASSENGER SIDE A MAN RODE BY IN A TRUCK AND HELP PUT IT OUT THE WASN'T DROVE SINCE 12:00 P.M THE DAY BEFORE I RAN IN MY FRONT DOOR GRABBED PHONE AND THAT FAST BUT THE GUY SAID IT LOOKS LIKE THE WIRES WERE BURNING PREVIOUSLY BECAUSE I HAD A BURN STAIN ON MY EXTERIOR WHITE PAINT.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11091725,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/23/2018",
+      "dateComplaintFiled": "05/04/2018",
+      "vin": "WBA3A5C57CF",
+      "components": "STEERING",
+      "summary": "I LEFT MY CAR IN MY DRIVEWAY FOR NEARLY 2 MONTHS WITHOUT DRIVING IT OVER THE WINTER MONTHS IN NEW ENGLAND.  UPON STARTING THE CAR ON NICER WEATHER, MY STEERING WHEEL WOULD NOT MOVE.  I CAN DRIVE THE CAR IN A STRAIGHT DIRECTION BUT THE STEERING WHEEL JUST WOULDN'T BUDGE.  HAD A BMW DEALERSHIP DIAGNOSE THE ISSUE AND FINGERS WERE POINTED AT HITTING A POTHOLE THAT CAUSED IMPACT AND THEREFORE DAMAGED 4 BOLTS HOLDING THE STEERING RACK TO THE MOTOR.  HOWEVER, THEY COULD NOT FIGURE OUT HOW I WAS DRIVING IT PERFECTLY FINE BEFORE STORING IT FOR WINTER, AND HOW 3 BOLTS WAS ALREADY MISSING AND THE LAST BOLT WAS CORRODING AND EVENTUALLY FELL OFF.  NICE, NOT A MECHANICAL ISSUE SO NOT BMW'S RESPONSIBILITY.    THIS MEANS I WAS DRIVING THE CAR WITH 1 BOLT HOLDING THE STEERING RACK TO THE MOTOR FOR AN UNKNOWN PERIOD OF TIME.  THE CAR GAVE NO WARNINGS WHATSOEVER AND I AM LUCKY THAT THE LAST AND FINAL BOLT HELD TOGETHER UNTIL THE CAR WAS NOT BEING DRIVEN.  IF THE LAST BOLT GAVE UP WHEN THE VEHICLE WAS MOVING, THEN I MAY NOT HAVE BEEN SO LUCKY.  WHY WOULD AN IMPACT THAT STRONG, AS DESCRIBED BY THE BMW TECHNICIAN, NOT FULLY RIP APART THE BOLTS?  WHY WAS I ABLE TO DRIVE NORMALLY FOR WEEKS WITHOUT ISSUES?  HOW DID IT NOT CAUSE ANY OTHER ISSUES AROUND THE WHEEL OR SUSPENSION AND ONLY 4 SECLUDED BOLTS WERE AFFECTED?  WHAT WOULD HAVE HAPPENED IF ALL THE BOLTS GAVE UP WHILE THE CAR WAS BEING DRIVEN?  HOW DOES A BMW CANNOT WITHSTAND NORMAL IMPACT WITH ITS FINE GERMAN ENGINEERING?     FORD HAD RECENTLY RECALLED ALMOST 1 MILLION VEHICLES BECAUSE THEIR BOLTS WERE FAULTY AND WOULD CORRODE UNDER WATER/SNOW WITH SALT.  TESLA DID THE SAME RECALL EARLIER THIS YEAR.   PLEASE NOTE TESLA USES THE SAME MANUFACTURER FOR THESE ALUMINUM BOLTS WHICH ARE SUSCEPTIBLE TO CORROSION AS BMW.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11074676,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/23/2018",
+      "dateComplaintFiled": "02/24/2018",
+      "vin": "WBA3A5C59CF",
+      "components": "STEERING",
+      "summary": "WHILE PULLING OUT OF THE GARAGE, A WARNING MESSAGE \"CHASIS STABILIZATION: DRIVE MODERATELY\" APPEARED ON THE DASH AND HAD NO POWER STEERING AND WAS MAKING WHIRRING NOISE WHEN THE STEERING WHEEL WAS TURNED. STOPPED THE CAR AND WALKED BACK INTO THE GARAGE AND FOUND A SHEARED OFF BOLT ON THE FLOOR. UPON FURTHER INSPECTION, FOUND ALL THE THREE BOLTS ON THE ELECTRIC STEERING MOTOR SHEARED OFF & MISSING AND THE STEERING MOTOR WAS ABOUT TO FALL OFF FROM ITS PLACE AND EXCESSIVE CORROSION WAS ALSO NOTICED. THE ONE BOLT FOUND ON THE GARAGE FLOOR MUST HAVE BEEN THE LAST ONE HOLDING THE MOTOR IN PLACE. GLAD THIS HAPPENED ON THE DRIVEWAY AND NOT AT FREEWAY SPEEDS OR WHEN MAKING A TURN.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11073076,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/30/2018",
+      "dateComplaintFiled": "02/15/2018",
+      "vin": "WBA3A5C52CF",
+      "components": "ENGINE",
+      "summary": "FAULTY TIMING CHAIN GUIDE BROKE ON THE INTERSTATE AT 70MPH CAUSING SUDDEN LOSS OF SPEED, COMPLETELY RUINING THE ENGINE. WIFE WAS LUCKILY ABLE TO SAFELY MERGE OUT OF TRAFFIC.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11063451,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/17/2018",
+      "dateComplaintFiled": "01/18/2018",
+      "vin": "WBA3A5C50CF",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT STATED THAT THERE WAS A FUEL LEAK UNDER THE VEHICLE THAT PROGRESSED WITHOUT WARNING. THE VEHICLE WAS NOT INSPECTED OR DIAGNOSED BY A DEALER. THE MANUFACTURER WAS AWARE OF THE FAILURE AND ISSUED A RECALL FOR OTHER YEAR AND MODELS, BUT EXCLUDED THIS MODEL YEAR. THE APPROXIMATE FAILURE MILEAGE WAS 30,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11063452,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/16/2018",
+      "dateComplaintFiled": "01/18/2018",
+      "vin": "WBA3A5C50CF",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "THE 3 SERIES BMW'S WERE NOT INCLUDED IN THE RECALL 16V-746 FOR FUEL LEAK EVEN THOUGH THE 5 AND 7 SERIES HAVE THE SAME FUEL PUMP.  MY CAR IS LEAKING GAS WHICH IS EXTREMELY DANGEROUS TO MY FAMILY AND OTHERS.   I HAVE READ COUNTLESS ACCOUNTS ONLINE OF THE SAME ISSUE WITH OTHER OWNERS OF THE 3 SERIES.   A PROBLEM OF THIS MAGNITUDE SHOULD HAVE BEEN INCLUDED IN THE ORIGINAL RECALL.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11057144,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/17/2017",
+      "dateComplaintFiled": "12/28/2017",
+      "vin": "WBA3A5C56CF",
+      "components": "ENGINE",
+      "summary": "IN JULY 2017 WHILE DRIVING THE CAR THE CABIN COMPLETELY FILLED UP WITH SMOKE AND I INHALED A SUBSTANTIAL AMOUNT , AND SMOKE STARTED COMING OUT FROM THE HOOD AREA. MY MECHANIC INSPECTED THE VEHICLE AND DETERMINED THERE WAS A MANUFACTURER RECALL ASSOCIATED WITH THE SMOKE FILLING THE CABIN. AT NO POINT DID I RECEIVE ANY FORM OF NOTICE THROUGH THE MAIL, EMAIL, OR PHONE INFORMING ME OF SUCH A RECALL. THE VEHICLE WAS DELIVERED TO TOWNE BMW IN WILLIAMSVILLE, NY AT THE BEGINNING OF AUGUST 2017. AFTER RECEIVING THE VEHICLE I WAS TOLD THE PROBLEM WAS FIXED AND THE VEHICLE WAS 'SAFE TO DRIVE'. HOWEVER ON THE DRIVE HOME AT NIGHT, THE VEHICLE COMPLETELY SHUT OFF ON THE HIGHWAY AT SPEED. I HAD NO LIGHTS, NO HORN, NO BRAKES, NO POWER WHATSOEVER. THIS APPARENTLY IS WHAT BMW CONSIDERS 'SAFE'. I HAD TO PAY TO TOW THE CAR BACK TO TOWNE BMW, AS THE SERVICE MANAGER DID NOT SEEM TO CARE THAT THE VEHICLE COMPLETELY SHUT OFF WHILE DRIVING. A FEW DAYS LATER TOWNE BMW INDICATED THE VEHICLE WAS ONCE AGAIN 'SAFE TO DRIVE'. AFTER PICKING UP THE VEHICLE, WITHIN A FEW DAYS THE ENGINE STARTED SMOKING AGAIN AND SMOKE BEGAN TO FILL THE CABIN, IN ADDITION TO NOISES BEING EMITTED FROM THE ENGINE COMPARTMENT AREA. I CALLED TOWNE BMW ON AVERAGE TWICE A DAY LEAVING VOICEMAILS AS WELL AS MY CONTACT INFORMATION, AND RECEIVED NO RESPONSE WHATSOEVER. AFTER MY SECOND CALL TO BMW CORPORATE TO COMPLAIN I FINALLY RECEIVED A CALL BACK FROM BMW AFTER NEARLY A WEEK OF PHONE CALLS. I SUPPOSE THE SAFETY OF VEHICLES OR PROPER SERVICE ARE NOT BMW CORE VALUES. IT IS NOW DECEMBER AND BMW REFUSES TO COVER THE COST OF REPAIRS, DESPITE NOT SENDING ME ANY RECALL NOTICE FOR SUCH A SUBSTANTIAL ISSUE. I HAVE BEEN WITHOUT A VEHICLE FOR 5 MONTHS NOW.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11052614,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/05/2017",
+      "dateComplaintFiled": "12/05/2017",
+      "vin": "WBADW7C59CE",
+      "components": "AIR BAGS",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V071000 (AIR BAGS). THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE DEALER (STEPHENS CREEK BMW, 4343 STEVENS CREEK BLVD, SANTA CLARA, CA 95051, 800-298-1501) WAS CONTACTED AND CONFIRMED THAT THE PARTS WERE NOT AVAILABLE FOR THE RECALL REMEDY. THE MANUFACTURER WAS NOT MADE AWARE OF THE ISSUE AND WAS NOT ABLE TO CONFIRM WHEN THE PARTS WERE TO BECOME AVAILABLE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. VIN TOOL CONFIRMS PARTS NOT AVAILABLE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11034723,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/01/2016",
+      "dateComplaintFiled": "10/19/2017",
+      "vin": "WBADW7C53CE",
+      "components": "AIR BAGS",
+      "summary": "TAKATA RECALL  I HAVE CONTACTED COGGIN BMW FT. PIERCE FL. SEVERAL TIMES TO GET MY AIRBAG FIXED.  OVER A YEAR NOW AND STILL THEY CLAIM THAT THE PARTS HAVE NOT COME IN YET.  IS THIS TRUE AND WHAT CAN I DO TO GET THIS RECALL TAKEN CARE OF.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "3-SERIES",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11025322,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/01/2017",
+      "dateComplaintFiled": "09/25/2017",
+      "vin": "WBA3A5C59CF",
+      "components": "EXTERIOR LIGHTING,AIR BAGS,UNKNOWN OR OTHER",
+      "summary": "N/A",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11024251,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/04/2016",
+      "dateComplaintFiled": "09/19/2017",
+      "vin": "WBADW3C52CE",
+      "components": "AIR BAGS",
+      "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V071000 (AIR BAGS); HOWEVER, THE PART DO TO THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE CONTACT CALLED AN UNKNOWN DEALER AND WAS ADVISED THAT THE PART WAS UNAVAILABLE. THE MANUFACTURER WAS NOT MADE AWARE OF THE ISSUE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. THE VIN WAS NOT AVAILABLE. PARTS DISTRIBUTION DISCONNECT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11021079,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/05/2016",
+      "dateComplaintFiled": "09/01/2017",
+      "vin": "WBADW3C57CE",
+      "components": "AIR BAGS",
+      "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V071000 (AIR BAGS); HOWEVER, THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. BMW OF GAINSVILLE (LOCATED AT 2853 N MAIN ST, GAINSVILLE, FL) WAS CONTACTED AND CONFIRMED THAT THE PARTS WERE NOT AVAILABLE FOR THE RECALL REMEDY. THE MANUFACTURER WAS MADE AWARE OF THE ISSUE AND WAS NOT ABLE TO CONFIRM WHEN THE PARTS WERE TO BECOME AVAILABLE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. PARTS DISTRIBUTION DISCONNECT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11021140,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/31/2017",
+      "dateComplaintFiled": "09/01/2017",
+      "vin": "WBA3A5C50CF",
+      "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING,UNKNOWN OR OTHER",
+      "summary": "RECENTLY MY GIRLFRIEND AND I HAD PURCHASED AND FINANCED A 2012 BMW 328I. THE MILEAGE WHEN WE BOUGHT THE CAR WAS AT 48,000. WITHEN THE FIRST 2 WEEKS OF HAVING THE CAR I HAD TO BRING IT BACK DUE TO THE PARKING LAMP BEING OUT. I DIDN'T GET NO WARNING FROM THE CAR THAT THE LIGHT WAS OUT EITHER. I BROUGHT IT IN THEY CORRECTED THE PROBLEM FOR THE TIME BEING AND I WENT ON MY WAY. THE SAME EXACT PARKING LAMP WENT OUT ANOTHER FEW WEEKS LATER. WE HAVE ONLY HAD THE CAR 3 MONTHS AND IT IS HAVING PROBLEMS WITH THE ENGINE AND SAYING THAT I HAVE DRIVEN A LOT MORE MILES THAN I ACTUALLY HAVE. THE ODOMETER IS NOW READING 60,000 MILES. BASICALLY SAYING I HAD DRIVEN OVER 13,000 MILES IN CLOSE TO 3 MONTHS TIME. THERE IS NO WAY I COULD OF DRIVEN 13,000 MILES IN THAT SHORT OF TIME WHEN I ONLY USE THE CAR TO GO TO WORK WHICH IS 20 MILES AWAY. THE CAR BROKE DOWN ON ME AND THE ODOMETER IS DEFINENTLY FAULTY. I KNOW ELECTRICAL PROBLEMS WHEN I SEE THEM. THE CAR IS UNSAFE TO DRIVE PRIOR TO BREAKING DOWN. ENGINE SHAKED VIOLENTLY AND MADE HISSING SOUNDS AFTER RELEASING THE GAS.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11020961,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/31/2017",
+      "dateComplaintFiled": "08/31/2017",
+      "vin": "WBA3A5C56CF",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "\"TAKAYA RECALL\" I WAS DRIVING MY CAR (IN MOTION) ON THE HIGHWAY (BMW 328I 2012)  WHEN SUDDENLY A MESSAGE APPEARED ON THE DISPLAY SCREEN STATING \"FUEL SUPPLY MALFUNCTION\" AFTER READING THE MESSAGE THE CAR SUDDENLY STALLED IN THE MIDDLE OF THE ROAD. I TURNED MY HAZARDS ON AND ATTEMPTED TO START THE CAR, BUT IT WOULD TURN OVER. AFTER WAITING 10 MINUTES WITH MY CAR COMPLETELY TURN OFF, IT FINALLY STARTED. THE SAME THING HAPPENED TO ME SEVERAL TIMES AND MOST RECENTLY TODAY 08/31/2017 ON THE STREETS. IT WAS REALLY SCARY ORDEAL BECAUSE THE OTHER DRIVERS HAD TO SUDDENLY BRAKE! MY CAR IS ONLY 5 YEARS OLD AND WELL MAINTAINED, SO THIS PROBLEM SHOULDN'T BE HAPPENING.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11013596,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/24/2017",
+      "dateComplaintFiled": "08/08/2017",
+      "vin": "WBA3A5C52CF",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "WATER LEAKING INTO DRIVER SIDE OF CAR AND POOLING IN DRIVER FOOTWELL AND DRIVER-SIDE PASSENGER.  WHEN PARKED ON SLOPE, NEARLY 3-4 INCHES OF STANDING WATER.  AFTER PUMPING AND DRYING OUT WATER, MAJOR RAIN STORM RESULTED IN RETURN OF POOLING WATER.  POSSIBLY RELATED TO BMW SERVICE BULLETIN:    SIB 51 05 14 IT SAYS \"REMOVE WATER DRAIN GROMMET OF UNITS COMPARTMENT\"",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10986387,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/29/2016",
+      "dateComplaintFiled": "05/18/2017",
+      "vin": "WBAKE3C53CE",
+      "components": "AIR BAGS",
+      "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V071000 (AIR BAGS). THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER INFORMED THE CONTACT THAT HE WOULD BE NOTIFIED PER THE DEALER ONCE THE PARTS WERE AVAILABLE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. PARTS DISTRIBUTION DISCONNECT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10986075,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/23/2017",
+      "dateComplaintFiled": "05/16/2017",
+      "vin": "WBA3C1C5XCF",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "MY HUSBAND AND I WERE DRIVING HOME FROM LA TO NEVADA. ON THE FREEWAY BETWEEN BARSTOW AND BAKER, THE CAR SUDDENLY STOPPED ON THE LEFT SIDE OF THE FREEWAY. WARNING LIGHT APPEARED BUT DISAPPEARED SO FAST THAT WE DID NOT GET A CHANCE TO READ WHAT IT WAS SAYING, ONLY THE LAST PART WHICH I THINK SAID ENGINE FAILURE.  IT DID NOT GIVE US A CHANCE TO LOOK FOR A SAFER PLACE TO STOP. FROM DRIVING AT 75 MPH, MY HUSBAND WAS ABLE TO DRIVE IT TO A NEARBY LEFT SHOULDER, WHICH WAS VERY NARROW THAT INCOMING CARS STARTED TO HONK BECAUSE WE WERE NOT REALLY PARKED INSIDE THE SPACE. I HAD TO CALL OUR INSURANCE FOR TOW SERVICE WHILE CARS WERE DRIVING 75-80 MPH. AFTER AN HOUR, THE TOW TRUCK CAME BUT COULD NOT HOOK US UP BECAUSE OF THE POSITION WE WERE IN AND CARS COMING IN SO FAST. THE TOW TRUCK HAD TO CALL THE CALIFORNIA HIGHWAY PATROL FOR HELP. SO WE WERE LEFT AGAIN (TOW TRUCK HAD TO GO BACK TO WAIT FOR THE CHP). THIS WAS A VERY SCARY SITUATION (WE HAD TO LEAVE THE CAR TO AVOID BEING HIT BY THE FAST, INCOMING VEHICLES). WE WERE LUCKY THAT WE WERE NOT HIT BUT IT WAS A CLOSE CALL. CHP CAME AND THE TOW TRUCK BROUGHT US HOME. THE DEALER WAS CLOSED BECAUSE IT WAS A SUNDAY. I HAD TO CALL ANOTHER TOW COMPANY ON MONDAY TO BRING IT TO THE DEALER.  THE DEALER SAID IT DID NOT HAVE COMMUNICATION WITH THE FUEL PUMP MODULE WHICH WAS DIFFERENT FROM WHAT THE WARNING INDICATION SHOWED. (BUT AS I MENTIONED EARLIER, IT WAS A SHORT NOTICE THAT I THINK IT SAID \"ENGINE FAILURE\").      WE HAD THE IMPRESSION THAT BMWS ARE SUPPOSED TO GIVE THE DRIVER ENOUGH WARNING BUT IN THIS CASE, IT DID NOT HAPPEN. WE ARE AFRAID TO DRIVE FOR MORE THAN 300 OR LESS MILES BECAUSE IT MIGHT STOP AGAIN IN THE MIDDLE OF THE FREEWAY. THAT IS AN ACCIDENT WE DO NOT WANT TO BE IN.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10966467,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/19/2016",
+      "dateComplaintFiled": "03/17/2017",
+      "vin": "WBAKF3C51CE",
+      "components": "AIR BAGS",
+      "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V071000 (AIR BAGS); HOWEVER, THE PART TO DO THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER WAS NOTIFIED OF THE ISSUE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. PARTS DISTRIBUTION DISCONNECT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10956182,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/03/2016",
+      "dateComplaintFiled": "02/21/2017",
+      "vin": "WBAUU3C5XCA",
+      "components": "ELECTRICAL SYSTEM,ENGINE",
+      "summary": "THE BMW 2012 328 XIT (XI WAGON) HAD HAD STUMBLING ISSUES FOR MONTHS AND THE DEALER WASN'T ABLE TO DIAGNOSE.  WHILE DRIVING, THE OEM BOSCH #5 CYLINDER COIL PACK FINALLY WENT CAUSING THE CAR TO HAVE TO LIMP HOME.  THE CAR WAS \"REPAIRED\" NO QUESTIONS ASKED BY THE DEALER AND THE BOSCH COILS WERE REPLACED WITH DELPHI COILS AS AN UPGRADE.  OTHERS HAVE COMPLAINED ABOUT COILS GOING BAD ON A NEWER CAR.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10955246,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/17/2017",
+      "dateComplaintFiled": "02/17/2017",
+      "vin": "WBA3A5C51CF",
+      "components": "AIR BAGS,SEAT BELTS",
+      "summary": "PASSENGER SIDE AIRBAG RESTRAINT SYSTEM MALFUNCTION WARNING ILLUMINATED SPORADICALLY. I TOOK IT TO THE DEALERSHIP TO HAVE IT CHECKED AND NOTHING WAS FOUND. A WEEK LATER, THE SAME THING HAPPENED. I TOOK IT BACK AND WAS TOLD THE PASSENGER SIDE SENSOR PAD NEEDED TO BE REPLACED. NOW BOTH THE DRIVER AND PASSENGER AIRBAG/RESTRAINT SYSTEM ILLUMINATED WHILE DRIVING OR PARKED. THE VEHICLE DOESN'T RECOGNIZE MY DRIVER SIDE SEAT BELT BEING ENGAGED. THESE WARNING APPEAR EITHER WHEN THE VEHICLE IS IN MOTION OR PARKED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10950044,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/22/2016",
+      "dateComplaintFiled": "02/07/2017",
+      "vin": "WBADW7C55CE",
+      "components": "AIR BAGS",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT RECEIVED A RECALL NOTIFICATION FOR NHTSA CAMPAIGN NUMBER: 16V071000 (AIR BAGS). THE PART NEEDED WAS UNAVAILABLE TO PERFORM THE RECALL REPAIR. THE MANUFACTURER WAS NOT NOTIFIED. THE CONTACT HAD NOT EXPERIENCED A FAILURE. PARTS DISTRIBUTION DISCONNECT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10947965,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/01/2016",
+      "dateComplaintFiled": "01/27/2017",
+      "vin": "WBADW7C55CE",
+      "components": "AIR BAGS",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V071000 (AIR BAGS); HOWEVER, THE PART TO DO THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER WAS MADE AWARE OF THE ISSUE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. PARTS DISTRIBUTION DISCONNECT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10935400,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/01/2016",
+      "dateComplaintFiled": "12/15/2016",
+      "vin": "WBAKE3C55CE",
+      "components": "AIR BAGS",
+      "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT STATED THAT THE RECALL NOTICE FOR NHTSA CAMPAIGN NUMBER: 16V071000 (AIR BAGS) WAS RECEIVED IN FEBRUARY OF 2016. AFTER CONTACTING THE DEALER AND THE MANUFACTURER ON MULTIPLE OCCASIONS, THE CONTACT WAS INFORMED THAT THE PARTS NEEDED FOR THE RECALL REMEDY WERE STILL NOT AVAILABLE AND NO ESTIMATED TIME FOR RECEIVING THE PARTS COULD BE PROVIDED. THE CONTACT HAD NOT EXPERIENCED A FAILURE. PARTS DISTRIBUTION DISCONNECT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10925651,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/06/2016",
+      "dateComplaintFiled": "11/13/2016",
+      "vin": "WBA3A5C58CF",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "AUGUST 6, 2016 - CAR STALLED AT ABOUT 50MPH, JUST WHEN ABOUT TO GO UPHILL. I WASN'T ABLE TO MAKE IT TO THE SHOULDER LEAVING THE CAR BLOCKING TRAFFIC WITH MY WIFE AND DAUGHTER IN IT.  ONCE IT STOPS, IT PUTS ITSELF IN PARK, MAKING IT IMPOSSIBLE TO PUSH ASIDE.  WE CREATED A TRAFFIC JAM AND POLICE BARRICADED WHILE WE WERE TRYING TO MOVE THE CAR.  EVENTUALLY, IN ABOUT 30 MINS, THE CAR TURNS ON.  HAPPENED AFTER AN HOUR OF HIGHWAY DRIVING.  CAR SEEMED FINE AFTER THAT.     AUGUST 17, 2016 - ON ANOTHER LONG TRIP, THE CAR STALLED ON THE HIGHWAY.  WOULD CRANK BUT NOT TURN ON.  ALMOST EXHAUSTED THE BATTERY.  CALLED A TOW TRUCK BUT BY THE TIME IT GOT THERE, AFTER ABOUT AN HOUR, THE CAR RESTARTED.  HAD MY ODB-II SCANNER WITH ME AND GOT CODE USED MY OBDII READER AND GOT CODE P142E - PRESSURE TOO LOW IN HIGH-PRESSURE SYSTEM, WHICH IS CONSISTENT WITH NOT STARTING AND THE AND THE FUEL SYSTEM MALFUNCTION MESSAGE.  I TOOK THE CAR TO AUTOGERMANA SERVICE CENTER, THAT SAME DAY.  SEPTEMBER 22, 2016 - STALLED ON A MAIN ROAD, WITH MY DAUGHTER, ON THE WAY TO THE PEDIATRICIAN.  I WAS ABLE TO MANEUVER TO THE RIGHT LANE AND PARK ON A GAS STATION.  AMBIENT TEMP WAS 94F.  WAITED ABOUT 30MINS AND THE CAR RE-STARTED.    THE DEALESHIP WOULD NOT ACKNOWLEDGE A FUEL SYSTEM PROBLEM BECAUSE THEY COULD NOT REPLICATE THE FAILURE.  SENT EMAIL TO BMW CUSTOMER RELATIONS BUT THEY REFERRED ME BACK TO THE DEALERSHIP.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "3-SERIES",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10925545,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/10/2016",
+      "dateComplaintFiled": "11/11/2016",
+      "vin": "WBA3A5C57CF",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "I WAS DRIVING ON A VERY BUSY ROAD IN DOWNTOWN CHICAGO IN HEAVY TRAFFIC AND THE CAR JUST SUDDENLY STALLED WITHOUT ANY WARNING MIDDLE OF THE ROAD AND WON'T MOVE. OF COURSE CAME CLOSE TO BEING CRASHED FROM BEHIND. I AM GRATEFUL AND LUCKY THAT THE CARS BEHIND WERE ABLE TO STOP IN TIME AND MANEUVER AROUND ME TO AVOID COLLISION.     THE BMW DEALER INSPECTED THE CAR AND TOLD ME THAT THE FUEL PUMP AND ITS CONTROL UNIT IS FAULTY. I HAVE ATTACHED THEIR DIAGNOSIS AS WELL. I FIND IT HARD TO BELIEVE THAT A LESS THAN 4 YEAR OLD CAR WITH UNDER 25K MILES ON IT HAS A FUEL PUMP FAILURE, UNLESS IT WAS FAULTY TO BEGIN WITH. I CHECKED INTO THE RECALLS FOR BMW 328I MODELS FOR FAULTY FUEL PUMPS AND IT SEEMS BMW RECALLED MODELS FROM 2014, BUT IT SEEMS THE 2012 BMW HAS THIS ISSUE AS WELL.     I WAS SAVED BUT I WANT TO MAKE SURE NO ONE ELSE IS HURT BECAUSE OF FAULTY PARTS THAT CAR MANUFACTURERS FAIL TO CHECK BEFORE SELLING IT TO UNSUSPECTING CONSUMERS, WHO THINK THEY ARE SAFE WHEN DRIVING THESE EXPENSIVE CARS WITH THEIR FAMILIES AND PRECIOUS ONES IN IT.      I SHUDDER TO THINK WHAT COULD HAVE HAPPENED AND I CONSIDER MYSELF LUCKY TO BE STILL ALIVE, SAFE AND OK TO WRITE THIS MESSAGE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "3-SERIES",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10917881,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/04/2016",
+      "dateComplaintFiled": "10/21/2016",
+      "vin": "WBAKE5C54CE",
+      "components": "AIR BAGS",
+      "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V071000 (AIR BAGS); HOWEVER, THE PART TO DO THE REPAIR WAS UNAVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER WAS NOTIFIED OF THE ISSUE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. PARTS DISTRIBUTION DISCONNECT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10910738,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/15/2016",
+      "dateComplaintFiled": "09/30/2016",
+      "vin": "WBADW3C56CE",
+      "components": "AIR BAGS",
+      "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V071000 (AIR BAGS); HOWEVER, THE PART TO DO THE RECALL REPAIR WAS NOT YET AVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER WAS NOT MADE AWARE OF THE ISSUE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. PARTS DISTRIBUTION DISCONNECT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10899323,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/21/2016",
+      "dateComplaintFiled": "08/29/2016",
+      "vin": "WBADW7C50CE",
+      "components": "AIR BAGS",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT RECEIVED A RECALL NOTIFICATION FOR NHTSA CAMPAIGN NUMBER: 16V071000 (AIR BAGS) AND STATED THAT THE PART NEEDED WAS UNAVAILABLE TO PERFORM THE RECALL REPAIR. THE MANUFACTURER WAS NOTIFIED OF THE ISSUE. THE CONTACT HAD NOT EXPERIENCED A FAILURE. PARTS DISTRIBUTION DISCONNECT.  ...UPDATED 09/20/16 *BF",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10892703,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/31/2016",
+      "dateComplaintFiled": "08/03/2016",
+      "vin": "WBAKG7C53CE",
+      "components": "STEERING,VEHICLE SPEED CONTROL,ENGINE",
+      "summary": "WHILE IN LINE IN A DRIVE THRU THE VEHICLE TURNED OFF SUDDENLY LOSING ALL ELECTRICAL POWER AND POWER STEERING. UPON TRYING TO START \"CHARGING MALFUNCTION\" APPEARED ON THE INFORMATION SCREEN IN WITH A RED WARNING SIGN. TRIED 2-3 TIMES TO TURN OVER STARTER. WHEN VEHICLE TURNED ON IT WAS TIME TO MOVE FORWARD. WHEN TRYING TO EXIT DRIVE THRU DRIVE WAY VEHICLE WAS VERY HEAVY AND ALMOST IMPOSSIBLE TO TURN. FINALLY AFTER SEVERAL BACK AND FORTH ATTEMPTS VEHICLE WAS MOVED ABOUT 50 FEET TO A SAFE PARKING LOCATION.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "3-SERIES",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10882573,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/04/2016",
+      "dateComplaintFiled": "07/05/2016",
+      "vin": "WBADW3C56CE",
+      "components": "ELECTRICAL SYSTEM,AIR BAGS",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V071000 (AIR BAGS). THE PART TO DO THE REPAIR WAS NOT AVAILABLE. THE CONTACT STATED THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER WAS MADE AWARE OF THE ISSUE.  THE CONTACT HAD NOT EXPERIENCED A FAILURE. VIN TOOL CONFIRMS PARTS NOT AVAILABLE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10854430,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/01/2016",
+      "dateComplaintFiled": "04/08/2016",
+      "vin": "WBAKF5C54CE",
+      "components": "AIR BAGS",
+      "summary": "TL* TAKATA RECALL. THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT STATED THAT THE RECALL NOTICE FOR NHTSA CAMPAIGN NUMBER: 163V07100 (AIR BAGS) WAS RECEIVED IN APRIL OF 2016. AFTER CONTACTING THE DEALER, THE CONTACT WAS INFORMED THAT THE PARTS NEEDED TO REPAIR THE VEHICLE WERE STILL NOT AVAILABLE AND NO ESTIMATED TIME FOR RECEIVING THE PARTS COULD BE GIVEN. THE CONTACT HAD NOT EXPERIENCED A FAILURE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10837580,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/28/2016",
+      "dateComplaintFiled": "02/22/2016",
+      "vin": "WBA3A5C5XCF",
+      "components": "ELECTRICAL SYSTEM,AIR BAGS,SEAT BELTS",
+      "summary": "I BOUGHT MY CAR AT AROUND 50K MILES, AFTER MANUFACTURER' WARRANTY HAD EXPIRED. IT WAS FINE FOR ABOUT A MONTH AFTER MY PURCHASE. ONE DAY, AFTER DRIVING FROM THE STORE, MY CAR INDICATED I NEEDED TO FASTEN MY SEATBELT. I WAS FASTENED IN. SO I STOPPED AND RESTARTED THE CAR, THINKING IT WAS SOME WEIRD ELECTRICAL PROBLEM. I RESTARTED THE CAR AND THE SAME THING HAPPENED. I GOT HOME AND THE NEXT TIME I GOT INTO MY CAR TO DRIVE IT, THE DISPLAY NOW SHOWS\" DRIVER RESTRAINT SYSTEM MALFUNCTION: CONTINUE WEARING SAFETY BELT. CONSULT NEAREST SERVICE CENTER.\"    I TOOK THE CAR TO THE DEALERSHIP. THE WARRANTY I PURCHASED DOES NOT COVER SEATBELTS OR AIRBAG SENSORS. THE DEALER GAVE ME A COST OF REPLACEMENT: $820.52!    I HAVE READ THAT OTHERS HAVE HAD THIS ISSUE. YET, THERE IS NO RECALL. WHY WOULD IT BE OKAY FOR SEATBELTS AND AIRBAG SENSORS TO STOP WORKING JUST AFTER 50K MILES?",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10822067,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/23/2016",
+      "dateComplaintFiled": "01/25/2016",
+      "vin": "",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "WHILE DRIVING IN THE EVENING I STARTED TO ACCELERATE FROM A STOP LIGHT AND THE CAR JUST STUTTERED OUT OF NO WHERE AND HAD TROUBLE ACCELERATING. A WARNING POPPED UP THAT SAID DRIVETRAIN MALFUNCTION. THE CAR IS STILL NOT OUTPUTTING ENOUGH POWER AND THE WARNING IS STILL UP. IT GOES AWAY AND THEN POPS UP AFTER DRIVI G 40MPH. I HAVE DONE ,PLENTY OF RESEARCH ON THIS AND THERE ARE A TON OF HITS AND COMPLAINTS ON THIS. BMW NEEDS TO FIGURE OUT WHAT IS WRONG WITH THEIR VEHICLES AND SEND OUT A RECALL. ITS SCARY KNOWING A LUXURY CAR DOES THIS NOT JUST WITH ME BUT WITH HUNDREDS OF OTHERW GOING THROUGH THIS AND THERE IS NO ANSWER.P",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10820551,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/15/2016",
+      "dateComplaintFiled": "01/15/2016",
+      "vin": "",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "WHILE DRIVING THIS AFTERNOON I STARTED TO ACCELERATE FROM A STOP LIGHT AND THE CAR JUST STUTTERED OUT OF NO WHERE AND HAD TROUBLE ACCELERATING. A WARNING POPPED UP THAT SAID DRIVETRAIN MALFUNCTION. I TOOK IT TO THE CLOSEST REPAIR SHOP AND THEY RAN DIAGNOSTICS ON IT AND CANNOT FIGURE OUT WHAT IS WRONG. THE CAR IS STILL NOT OUTPUTTING ENOUGH POWER AND THE WARNING IS STILL UP. I HAVE DONE RESEARCH ON THIS AND THERE ARE A TON OF HITS ON THIS. BMW NEEDS TO FIGURE OUT WHAT IS WRONG WITH THEIR VEHICLES AND SEND OUT A RECALL.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10780872,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/23/2015",
+      "dateComplaintFiled": "10/08/2015",
+      "vin": "WBAPH5G55BN",
+      "components": "UNKNOWN OR OTHER,ENGINE",
+      "summary": "VANOS BOLT FAILURE.  4 VANOS BOLT BROKEN.  CAR STALLED WHILE DRIVING.  THE CAR WAS DRIVING ON A CITY STREET WHILE TURNING.  NO POWER AT ALL.  IT IS A 2011 328I.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "3-SERIES",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10721700,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/04/2015",
+      "dateComplaintFiled": "05/27/2015",
+      "vin": "5UXWX5C56CL",
+      "components": "POWER TRAIN,UNKNOWN OR OTHER,FUEL/PROPULSION SYSTEM",
+      "summary": "SUDDEN COMPLETE LOSS OF POWER WHILE UNDERWAY ON INTERSTATE 476 NORTH OF PHILADELPHIA. CAR STOPPED IN THE MIDDLE OF 4 LANES OF HIGH SPEED TRAFFIC AT 4:10 PM.IT WOULD NOT RESTART.  THERE WAS NO WARNING OF AN ISSUE PRIOR. I AM SOLE OPERATOR OF  CAR. CAR WAS IN DEALERS SHOP FOR 7 DAYS. NO OBVIOUS CAUSE FOUND,  BUT BOSCH COILS REPLACED AS A PRECAUTION. 300 MILES LATER ON MAY 26, AT APPROX 5:20 PM THE CAR AGAIN W/O WARNING HAD SUDDEN COMPLETE LOSS OF POWER; WOULD NOT RESTART.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10689571,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/01/2014",
+      "dateComplaintFiled": "02/20/2015",
+      "vin": "WBA3A5C52CF",
+      "components": "AIR BAGS",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT STATED THAT THE AIR BAG WARNING LIGHT REMAINED ILLUMINATED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 60,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10661584,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/27/2014",
+      "dateComplaintFiled": "12/02/2014",
+      "vin": "WBA3C1C56CF",
+      "components": "ENGINE",
+      "summary": "CAME OUT OF THE PARKING LOT INTO A BUSY MAIN ROAD AND ENGINE SUDDENLY STOPPED IN THE MIDDLE OF THE ROAD.  THERE WAS NO INDICATION BEFORE ENGINE STOPPED.  TRIED TO RESTART THE ENGINE (THE CAR HAS KEYLESS PUSH BUTTON START) BUT DID NOT START.  WHEN TRIED TO RESTART, THE DASHBOARD MESSAGE SAID  SOMETHING LIKE \"ENGINE WILL NOT START\".  THERE WAS NO INDICATION BEFORE THE PROBLEM OCCURRED.  I WAS ON THE BUSY HIGHWAY IN CHICAGO AREA AN HOUR BEFORE THE INCIDENT.  THE CAR WAS SERVICED IN MARYLAND DEALERSHIP  TWO DAYS BEFORE THE INCIDENT AND DROVE TO CHICAGO FROM MARYLAND AND THE INCIDENT HAPPENED IN CHICAGO.  THE CAR WAS THEN TOWED TO THE NEAREST DEALERSHIP IN CHICAGO AND AFTER TWO DAYS THEY SAID THE FUEL PUMP BROKE/BURNED OUT AND HAVE TO BE REPLACED AND WILL TAKE 3-4 DAYS TO FIX IT.  NOTE THAT THE CAR IS LESS THAN TWO YEARS OLD, UNDER FULL WARRANTY AND AT AROUND 30800 MILES.  ALSO NOTE THAT THE SCHEDULED 30,000 MILE SERVICE WAS DONE THE DAY BEFORE THE INCIDENT HAPPENED AND THE CAR WAS INSPECTED AND CLEARED FOR ANY ISSUES/PROBLEMS.   AN INCIDENT LIKE THIS CAN BE DANGEROUS IF THE VEHICLE STOPS LIKE THAT ON A HIGHWAY OR A BUSY ROAD WITH NO APPARENT SIGNS.  AFTER THIS INCIDENT I LOST CONFIDENCE IN THE VEHICLE AND ALSO DO NOT WANT SOMETHING LIKE THIS HAPPEN TO ANYBODY ELSE.  I WOULD LIKE THE COMPANY/MANUFACTURER TO TAKE SERIOUS NOTE OF THIS INCIDENT SO THAT IT DOES NOT HAPPEN TO ANYBODY ELSE.    I WAS ALSO STRANDED IN CHICAGO FOR 3-4 DAYS WITH FAMILY AND THREE SMALL KIDS.  AS THE PART WAS BACK-ORDERED  THE DEALER IN CHICAGO WAS NOT SURE WHEN IT WILL BE READY AND I AND MY WIFE HAD TO GET BACK TO MARYLAND FOR WORK AND SCHOOL FOR KIDS.  SO I RENTED A CAR AND DROVE BACK TO MARYLAND.   THE CAR IS NOW IN CHICAGO AND HAVE TO FIGURE OUT A WAY TO GET IT BACK TO MARYLAND.  BMW IS SAYING THAT THEY CAN ONLY HAUL IT FOR 250 MILES.  *JS",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10655239,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/15/2014",
+      "dateComplaintFiled": "11/15/2014",
+      "vin": "WBA3C1C56CF",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "DRIVING MY 2012 BMW 328I ON THE INTERSTATE I-10 IN ARIZONA MM163 AT APPROX. 80MPH AND I GET AN ERROR CODE \"DRIVE TRAIN MALFUNCTION, DRIVE MODERATELY\"  AFTER THIS MESSAGE I WAS NOT ABLE TO ACCELERATE AS THE POWER TRAIN WAS NONEXISTENT.  HAD TO COAST THROUGH HEAVY TRAFFIC IN A CONSTRUCTION ZONE TO GET MY FAMILY TO A SAFE AREA.  I JUST BOUGHT THE VEHICLE FROM THE DEALERSHIP 4 MONTHS PRIOR AS IT WAS CPO'ED AND I HAVE THE EXTENDED WARRANTY.  VEHICLE MILEAGE AT TIME OF INCIDENT WAS 49990 (STILL UNDER FULL BMW WARRANTY).  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10625794,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/20/2013",
+      "dateComplaintFiled": "08/16/2014",
+      "vin": "WBAKE5C57CJ",
+      "components": "ENGINE",
+      "summary": "IN MARCH, 2013 SERVICE ENGINE SOON LIGHT WOULD GO ON AND OFF AND ENGINE IDLE WOULD SUDDENLY SURGE.  MADE SERVICE APPOINTMENT WITH DEALER WHERE I PURCHASED THE CAR AND SERVICE DEPARTMENT DIAGNOSED THE ISSUE AS A FAULTY SECONDARY AIR VALVE, FC 2A00, DC D1170-000 07-001, AND SECONDARY AIR VALVE WAS REPLACED. PARTS REPLACED: 11-72-7-506-214 AND 11-72-7-557-909.  CAR WAS PURCHASED ON 10/8/2012 AND HAD 5,333 MILES WHEN IT REQUIRED REPAIR.  AFTER THE REPAIR WAS DONE, THE SERVICE ENGINE SOON LIGHT WAS NO LONGER ON, BUT THE CAR CONTINUED TO EXPERIENCE ENGINE IDLE SURGES, BUT THEY WERE NOT AS ABRUPT AND SIGNIFICANT AS BEFORE THE REPAIR AND A LOT LESS FREQUENT.  HOWEVER, IN JULY, 2014 THE CAR STARTED TO EXPERIENCE ISSUES RELATING TO THE ENGINE OVERHEATING, AND THE ENGINE BEGAN TO HAVE FREQUENT AND SUDDEN SURGES BOTH WHILE AT IDLE AND WHILE DRIVING.  IN ADDITION, THE CAR'S A/C WAS NO LONGER PROVIDING COLD AIR, AND THE CAR'S PERFORMANCE WAS ERRATIC.  WHEN MAX COOL WAS ENGAGED, THE CAR'S ENGINE WOULD SURGE LOUDLY UNTIL THE A/C WAS TURNED OFF.  THE CAR BECAME INCREASINGLY DIFFICULT TO STEER AND DRIVE. DURING THE TIME THE CAR WAS EXPERIENCING THESE ISSUES, NO WARNING LIGHT WAS ILLUMINATED AND THE ON BOARD SYSTEM CHECK INDICATED THAT THERE WERE NO ISSUES WITH THE CAR.  AT THIS POINT THE CAR HAD BEEN DRIVEN14,000 MILES (APPROX). SERVICE APPOINTMENT WAS SCHEDULED AND ACCORDING TO SERVICE DEPARTMENT, THE A/C SYSTEM WAS LEAKING AND THERE WAS VERY LITTLE REFRIGERANT LEFT, AND THE A/C COMPRESSOR WAS REPLACED.  HOWEVER, THE SERVICE DEPARTMENT STATED NO OTHER ISSUES WERE FOUND WITH THE CAR AND WHEN THE SERVICE TECH TEST DROVE THE CAR IT PERFORMED WITHOUT ANY ISSUES AND THEY DID NOT OBSERVE ANY SUDDEN SURGES WITH THE ENGINE.    *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10605482,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/23/2014",
+      "dateComplaintFiled": "06/24/2014",
+      "vin": "",
+      "components": "VEHICLE SPEED CONTROL",
+      "summary": "ENGAGED CRUISE CONTROL ON INTERSTATE AND THE VEHICLE IMMEDIATELY AND AGGRESSIVELY ACCELERATED.  AS THE VEHICLE SPEED INDICATOR APPROACHED THE CRUISE CONTROL PIPPER, THE PIPPER BEGAN TO INCREASE, STAYING ABOUT 5MPH AHEAD OF THE SPEEDOMETER NEEDLE.  AT APPROXIMATELY 95MPH I DISENGAGED THE SYSTEM USING THE CONTROL IN THE STEERING WHEEL.  INFORMATION CENTER  DISPLAYED A \"CRUISE CONTROL MALFUNCTION\" ERROR.  ENGAGING THE BRAKE DISENGAGED THE CRUISE CONTROL, BUT ONCE I RELEASE THE BRAKE PEDAL THE CRUISE BEGAN AGGRESSIVELY ACCELERATING AGAIN.      TRIED IT ONCE MORE OFF THE INTERSTATE AT APPROXIMATELY 30MPH AND VEHICLE DISPLAYED SAME SYMPTOM.  VEHICLE SPEED ALWAYS APPEARS TO CHASE THE CRUISE SETTING WHICH INCREASES STEADILY IN RELATION TO VEHICLE SPEED.    PLAN TO CONTACT DEALER TODAY.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10593749,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/23/2014",
+      "dateComplaintFiled": "05/23/2014",
+      "vin": "WBA3A5C50CF",
+      "components": "POWER TRAIN,VEHICLE SPEED CONTROL,ENGINE",
+      "summary": "UNABLE TO ACCELERATE SAFELY, ENGINE GIVES OUT INTERMITTENTLY AT VARYING SPEEDS. CALLED EVERY DEALERSHIP AROUND ALPHARETTA, GA; GWINNETTE BMW TOLD ME THEY WOULDN'T WORK ON IT OR HELP ME AND THEN HUNG UP-ALL ON A RECORDED LINE. STILL WAITING FOR A MANAGER TO CALL ME. CALLED ANOTHER DEALER AND THEY SAID TO WAIT A FEW HOURS AND TRY AGAIN MEANWHILE I CAN ONLY HOPE MY CAR DOESN'T SHUT OFF ON MY DURING RUSH HOUR OR ON MY WAY TO WORK. THIS HAS BEEN ON ONGOING ISSUE WITH THE F30 BMW 3 SERIES AS MANY CUSTOMERS INDICATED THIS ISSUE FOR AT LEAST TWO YEARS.   *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10566542,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/28/2014",
+      "dateComplaintFiled": "02/28/2014",
+      "vin": "WBA3A5C5XCF",
+      "components": "VISIBILITY/WIPER",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. THE CONTACT STATED THAT WHILE DRIVING APPROXIMATELY 10 MPH, THE WINDSHIELD WIPERS SUDDENLY BECAME INOPERABLE WHEN THE VEHICLE SWITCHED FROM ECO MODE TO NORMAL DRIVE MODE INDEPENDENTLY. THE CONTACT SHUT OFF THE VEHICLE AND ONCE RESTARTED, THE WIPERS REMAINED INOPERABLE. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED. THE FAILURE MILEAGE WAS 29,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10557134,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/12/2012",
+      "dateComplaintFiled": "12/24/2013",
+      "vin": "",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "BOUGHT BRAND NEW 2012 328I. WITHIN 2 MONTHS ENGINE MALFUNCTION WARNING WOULD SHOW UP AND CAR WOULD GO INTO \"LIMP MODE\" AND BARELY DRIVE ABLE. SOMETIMES COULD BE RESET BY TURNING OFF, THEN BACK ON. HAPPENED MULTIPLE TIMES, AND EVERY TIME THE DEALER TOLD ME NO ONE ELSE WAS HAVING THIS PROBLEM. THEY BLAMED THE FUEL INJECTORS AND REPLACED THEM MULTIPLE TIMES. IT WAS IN THE SHOP A TOTAL OF 6 TIMES FOR SAME \"DRIVE TRAIN MALFUNCTION\" WARNING. I MADE THEM BUY THE CAR BACK FROM ME, ASSUMING IT WAS A FLUKE WITH THE CAR, BECAUSE THEY CONTINUED TO ASSURE ME THAT NO ONE ELSE WAS HAVING THIS PROBLEM, ANYWHERE, I BOUGHT A BRAND NEW 2013 328I. WITHIN A MONTH I HAD THE SAME PROBLEM. EXCEPT THIS TIME IT WAS WORSE. IT COULDN'T BE FIXED BY TURNING IT OFF THEN BACK ON. EVERY TIME IT HAPPENED, 3 TIMES NOW, IT HAS REQUIRED A TRIP TO THE DEALERSHIP FOR THE EXACT SAME \"DRIVETRAIN MALFUNCTION\" WARNING. THEY STILL SAY THERE'S NO PROBLEM. WHEN IT HAPPENS THE ENGINE SHAKES VIOLENTLY AND THE CAR WILL BARELY RUN 55MPH IF PUSHED. THIS IS A CONSISTENT PROBLEM THAT IS BEING IGNORED BY BMW. EVERY TIME I HAVE TO TAKE THE CAR IN THEY SAY THEIR \"GUIDELINES\" JUST CALL FOR A COMPUTER RESET, AND THAT IT HAS BEEN FIXED, ONLY TO LEAVE ME ON THE SIDE OF THE ROAD A MONTH LATER.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10522529,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/28/2013",
+      "dateComplaintFiled": "06/30/2013",
+      "vin": "WBA3C1C55CF",
+      "components": "POWER TRAIN,ELECTRICAL SYSTEM,ENGINE",
+      "summary": "WENT TO START CAR AND GOT A DRIVE TRAIN MALFUNCTION MESSAGE. HAD IT TOWED TO A BMW DEALER TO DIAGNOSE THE PROBLEM.  THEY WILL REPLACE THE INTAKE VANOS SOLENOID SENSOR.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10522005,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/22/2013",
+      "dateComplaintFiled": "06/27/2013",
+      "vin": "WBA3A5C52CF",
+      "components": "ELECTRICAL SYSTEM,VISIBILITY/WIPER",
+      "summary": "THE I DRIVE COMPLETELY FAILED LEAVING THE SCREEN BLACK AT THIS TIME I HAD NO AUDIO,NO HANDS FREE TELEPHONE NO WAY TO CHANGE ANY SETTINGS ON THE VEHICLE. WENT TO BMW DEALERSHIP AND WAS TOLD IT WAS AN OVERTEMP CODE AND THAT BMW WAS AWARE THAT THERE WERE PROBLEMS AND ENGINEERS WERE WORKING ON IT BUT AT THE TIME THERE IS NOTHING THEY CAN DO TO CORRECT THE PROBLEM THIS CAR ONLY HAS 12,300 MILES ON IT AND STILL UNDER WARRANTY. THERE WERE 3 OTHER CARS THERE WITH THE SAME PROBLEM. ALL CARS HAD LOW MILEAGE. I FEEL THIS IS A VERY DANGEROUS SITUATION THAT BMW IS AWARE OF BUT CHOOSES TO DO NOTHING ABOUT IT. I AM ALSO CONCERNED THAT THIS COULD BE A FIRE HAZARD.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10510862,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/01/2013",
+      "dateComplaintFiled": "05/06/2013",
+      "vin": "WBA3A5C5XCF",
+      "components": "ELECTRICAL SYSTEM,SEATS,ENGINE",
+      "summary": "APRIL 2013, A WARNING SIGNAL ON MY VEHICLE NOTIFIED ME THERE WAS A NEED FOR COOLANT. I SCHEDULED  MAINTENANCE FOR 4/18/13. I INFORMED THEM OF THE COOLANT WARNING AND ALSO INQUIRED ABOUT RECALL NOTICES. ON 4/19/13, I CALLED WEBER BMW MYSELF TO CHECK THE STATUS, LOUIE INFORMED ME THERE WERE 3 RECALL NOTICES ON MY CAR THAT WERE APPARENT AND NEEDED TO BE REPAIRED, AND THAT THEY WOULD NEED TO HOLD MY CAR UNTIL MONDAY 4/22/13.I PICKED UP MY CAR ON 4/23/13 AND LOUIE INFORMED ME ALL THE RECALLS WERE FIXED AND MY CAR WAS GOOD TO TAKE HOME. ON 4/24/13, THE COOLANT WARNING SIGNALED AGAIN. THAT EVENING, MY CAR BEGAN TO EXERT EVEN MORE ISSUES THAN BEFORE! FIRST THE COOLANT WARNING, THEN WARNING TELLING ME TO DRIVE MODERATELY, THEN PULL OVER IMMEDIATELY ENGINE OVERHEATING. I PULLED THE CAR OVER, STOPPED THE ENGINE ALLOWING IT TO COOL DOWN, AND STARTING IT BACK UP, THE CAR WOULD NOT GO OVER 17 MPH. I CONTACTED WEBER BMW FOR ANOTHER SERVICE SCHEDULED FOR 4/30/13. A REPRESENTATIVE FROM WEBER BMW CONTACTED ME ON 4/29/13 AND INFORMED ME LOUIE ADVISED I CASUALLY STOP BY TO TOP OFF MY COOLANT,' AND THAT SHOULD RESOLVE MY PROBLEMS. I FOUND THIS RESOLUTION SKEPTICAL, LAZY, AND KNEW IT WOULD NOT BE ADEQUATE TO RESOLVE THE ISSUES WITH MY CAR. I STOPPED BY WEBER ON 4/29/13 AND THE SERVICE ADVISER ATTEMPTED TO 'TOP OFF MY COOLANT, WHEN WE BOTH NOTICED THE COOLANT SPILLING OUT OF THE OTHER SIDE OF THE ENGINE (I EMPHASIZE SPILLING AND NOT LEAKING). I WAS ADVISED NOT TO DRIVE THE VEHICLE. LOUIE CALLED ME ON 4/30/13 TO REPORTED A HOLE IN THE PART THAT WAS REPLACED PER THE RECALL CAUSING THE COOLANT TO SPILL OUT. HE LET ME KNOW THAT THE CAR WOULD BE READY NEXT DAY 5/1/13 FOR PICK UP.   I DO NOT FEEL SAFE DRIVING THIS VEHICLE ANY LONGER. I PURCHASED THIS CAR 4/10/12, AND IT BEGAN SHOWING ISSUES OF POOR MANUFACTURING JUST SHY OF A YEAR,  I ONLY HAVE 14,000MILES ON THE VEHICLE.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10510364,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/28/2012",
+      "dateComplaintFiled": "05/02/2013",
+      "vin": "",
+      "components": "TIRES",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I EQUIPPED WITH GOODYEAR EFFICIENT GRIP RUN FLATS TIRES, LINE SIZE 225/45R/18. THE CONTACT STATED THAT THE FRONT AND REAR PASSENGER SIDE TIRE DEVELOPED A BUBBLE ON THE SIDE WALL. THE VEHICLE WAS TAKEN TO THE DEALER. THE TECHNICIAN STATED THAT THE FAILURE WAS CAUSED BY DRIVING OVER A POT HOLE. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE BUT DID NOT OFFER ANY ASSISTANCE. THE TIRES WERE REPLACED. THE DOT AND THE VIN NUMBERS WERE NOT AVAILABLE. THE FAILURE MILEAGE WAS 4,393 AND THE CURRENT MILEAGE WAS 10,000. *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        },
+        {
+          "type": "Tire",
+          "productYear": "1994",
+          "productMake": "GOODYEAR",
+          "productModel": "GOODYEAR",
+          "size": null,
+          "manufacturer": "Goodyear Tire & Rubber Company"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10508539,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 1,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/28/2012",
+      "dateComplaintFiled": "04/17/2013",
+      "vin": "WBAKF3C59CE",
+      "components": "AIR BAGS",
+      "summary": "DRIVER OF A 2012 BMW 328I, WAS MAKING A LEFT TURN OUT OF A PARKING LOT WHEN HER VEHICLE WAS STRUCK ON THE DRIVER'S SIDE (ROUGHLY THE MIDDLE OF THE VEHICLE) BY A CHEVROLET BLAZER THAT WAS TRAVELLING AT A RATE OF AT LEAST 40 MPH.      NONE OF THE BMW'S AIRBAGS DEPLOYED.  AS A RESULT OF THE AIRBAG FAILURE, THE DRIVER'S HEAD WENT THROUGH THE WINDOW OF THE DRIVER'S DOOR, RESULTING IN PHYSICAL AND NEUROLOGICAL INJURIES.     BMW STATES THAT THE AIRBAG SYSTEM IS/WAS WORKING PROPERLY (I.E. - BMW ASSERTS THE AIRBAG SYSTEM SHOULD NOT HAVE DEPLOYED IN THIS SITUATION).      DRIVER'S COMPLAINT IS THAT AIRBAG DEPLOYMENT WOULD HAVE PROTECTED HER AND PREVENTED SAID INJURIES.  THUS, EITHER THE AIRBAG MALFUNTIONED AND FAILED TO DEPLOY, OR IT IS DESIGNED IMPROPERLY.  IF THERE WERE EVER A SITUATION THAT WARRANTED A SIDE AIRBAG TO DEPLOY, THIS ACCIDENT PRESENTS THOSE FACTS.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10498053,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/12/2013",
+      "dateComplaintFiled": "02/13/2013",
+      "vin": "",
+      "components": "SERVICE BRAKES",
+      "summary": "I WAS PULLING INTO THE DRIVE WAY TO PARK MY CAR.  BECAUSE THERE IS A TINY SLANT, SO I DECIDED TO PUSH FOR A LITTLE GAS. THE CAR, HOWEVER, DID NOT STOP WHEN I PRESSED ON THE BRAKE.  I WAS ONLY ABLE TO STOP THE CAR BECAUSE THE I DRIVE THROUGH THE GARAGE DOOR.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10492311,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/04/2013",
+      "dateComplaintFiled": "01/11/2013",
+      "vin": "WBA3A9C52CF",
+      "components": "STRUCTURE",
+      "summary": "THIS CAR HAS NO \"SAFETY CATCH\" ON THE HOOD LATCH THAT THE OWNER OPENS AFTER FIRST RELEASING THE HOOD FROM INSIDE THE CAR.    INSTEAD, THE OWNER OPENS THE HOOD BY PULLING TWICE ON THE HOOD RELEASE LEVEL INSIDE THE CAR IN THE DRIVER'S FOOTWELL. THE HOOD THEN OPENS FREELY WITHOUT FURTHER UNLATCHING OUTSIDE THE CAR.    THE PROBLEM IS THAT THIS LATCH SYSTEM FAILS TO CLOSE THE HOOD PROPERLY. OFTEN ONE SIDE OR THE OTHER WILL NOT LATCH FIRMLY INTO PLACE. SO, INSTEAD OF TWO LATCHES HOLDING THE HOOD DOWN, ONLY ONE DOES. I TOOK MY CAR TO A DEALER FOR THIS PROBLEM, WHO DIAGNOSED IT HAS BEING CAUSED BY \"LEAVES\" IN THE MECHANISM. HOWEVER, THE PROBLEM HAS RECURRED ON BOTH THE SIDE THEY CLEANED (THE PASSENGER'S SIDE) AND ON THE DRIVER'S SIDE LATCHES.    IT IS UNSAFE TO DRIVE THIS CAR WITH THE HOOD ONLY PARTIALLY LATCHED CLOSED, AS I AM SURE YOU WILL AGREE.    OWNERS ARE COMPLAINING OF THIS SAFETY PROBLEM. SEE THIS DISCUSSION AND A PICTURE OF THE IMPROPERLY CLOSED HOOD ONLINE ON A BMW FORUM: HTTP://WWW.F30POST.COM/FORUMS/SHOWTHREAD.PHP?T=790560.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "3-SERIES",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10484241,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/12/2012",
+      "dateComplaintFiled": "11/06/2012",
+      "vin": "WBA3A5C58CF",
+      "components": "AIR BAGS,SEATS",
+      "summary": "PASSENGER SIDE AIR BAG DISENGAGES IF PASSENGER SITS ON ANY TYPE CUSHION.  PASSENGER SIDE AIR BAG DISENGAGED LIGHT IS ON IF PASSENGER IS IN THE PASSENGER SEAT SITTING ON ANY TYPE OF CUSHION OR PADDING.  THE AIR BAG CAN DISENGAGE IF PASSENGER WEARS A PADDED WINTER COAT.  THIS BMW 328I ORIGINALLY WAS DELIVERED WITH THE AIR BAG ENGAGED WITH OR WITHOUT A PASSENGER IN THE PASSENGER SEAT,  THE PASSENGER SIDE AIR BAG DISABLED LIGHT WAS ALWAYS OFF AND THE AIR BAG WAS ENGAGED.  BMW WILL NOT RESTORE TO THE ORIGINAL DELIVERED CONDITION.  THE PASSENGER SITTING ON ANY CUSHION OR PADDING IS IN DANGER OF INJURY BECAUSE OF A DISENGAGED PASSENGER AIR BAG.  THIS WAS NOT THE ORIGINAL DELIVERED CONDITION....UPDATED11/21/12 *BF",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10483170,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/31/2012",
+      "dateComplaintFiled": "11/02/2012",
+      "vin": "WBA3A5C56CF",
+      "components": "STEERING",
+      "summary": "TL* THE CONTACT OWNS A 2012 BMW 328I. WHILE DRIVING APPROXIMATELY 40 MPH, THERE WAS A COMPLETE LOSS OF POWER STEERING WITH AN ILLUMINATION OF THE POWER STEERING WARNING INDICATOR. THE CONTACT APPLIED SIGNIFICANT FORCE TO THE STEERING WHEEL IN ORDER TO MANEUVER THE WHEEL. THE VEHICLE WAS MANEUVERED TO THE SIDE OF THE ROAD WHERE THE ENGINE WAS TURNED OFF. UPON RESTARTING, THE STEERING WHEEL FUNCTIONED NORMALLY WITH THE WARNING INDICATOR ILLUMINATED. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER FOR INSPECTION WHERE THEY ADVISED THE CONTACT THAT THE BATTERY WAS LOW VOLTAGE. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED OF THE PROBLEM. THE APPROXIMATE FAILURE MILEAGE WAS 5,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "328I",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    },
+    {
+      "odiNumber": 10457576,
+      "manufacturer": "BMW of North America, LLC",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/26/2012",
+      "dateComplaintFiled": "05/05/2012",
+      "vin": "WBA3A5C54CF",
+      "components": "SEATS",
+      "summary": "WHEN I PURCHASED 328I SOMEONE ACCIDENTALLY PULL UP THE DRIVER-SIDE HEADREST FROM DOWN POSITION. BUT I AM SHORT AND MY HEAD IS PROTECTED WHEN THE HEADREST(CONSTRAINT) IS IN ORIGINAL DOWN POSITION. I WANTED IT TO BE PUT DOWN IN ORIGINAL POSITION. NO ONE INCLUDING SERVICE DEPT TECHNICIAN COULD DO IT. AND DURING THE PROCESS THEY PULL THE PASSENGER SIDE HEADREST UP TOO. NOW BOTH SIDES COULD NOT BE PUT DOWN (BY THE WAY BOTH COULD NOT BE PULLED OUT NEITHER), EVEN THOUGH MANUAL SAID THEY COULD BE PUT DOWN AND OUT TOO. AND I CALLED BMW NORTH AMERICA CUSTOMER SERVICE AND THEY DON'T HAVE ANY ANSWER NOR RELATED INFORMATION.     I'M CONCERNED SINCE IT COULD BE A SAFETY ISSUE TO ME. MAY I ASK YOUR HELP IF IT CAN BE RESEARCHED WHY THEY CAN NOT BE PUT DOWN IN ORIGINAL POSITION? I HOPE IT'S NOT A DEFECT PROBLEM, IS IT?  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2012",
+          "productMake": "BMW",
+          "productModel": "3-SERIES",
+          "manufacturer": "BMW of North America, LLC"
+        }
+      ]
+    }
+  ]
+}

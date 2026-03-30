@@ -10,7 +10,7 @@ This document consolidates a multi-day used car search conducted in late March 2
 - **Low total cost of ownership** (parts + labor)
 - **Rust belt survivability** (all candidates are Midwest cars)
 
-Sixteen vehicles were evaluated in total. Each section below contains the full Carfax summary, known platform issues, a red/yellow/green assessment, and the final verdict.
+Eighteen vehicles were evaluated in total. Each section below contains the full Carfax summary, known platform issues, a red/yellow/green assessment, and the final verdict.
 
 ---
 
@@ -20,18 +20,20 @@ Sixteen vehicles were evaluated in total. Each section below contains the full C
 |------|-----|-------|-------|-------------|----------|
 | **1** | **2011 BMW 328i xDrive (Schererville)** | $4,800 | 147,933 | Zero accidents, all-dealer N52 service | Water pump, 148k |
 | **1b** | **2008 BMW 335i (Cincinnati)** | $5,000 | ~130,000 | Best maintained, full suspension rebuild, 2 owners | N54 turbo/HPFP/injector risk |
-| 2 | 2017 BMW 230i xDrive | $5,500 | 191,122 | Newest, best trans (ZF 8HP), great condition | No history, turbo at 191k, flipper |
-| 3 | 2015 Subaru Impreza 5-speed | $5,000 | 190,000 | Simplest/cheapest to maintain, manual trans | Unknown history |
+| **2** | **2012 Subaru Impreza 2.0i Manual (Cincinnati)** | $4,900 | 144,547 (~50k on engine) | 30+ Subaru dealer records, short block ×2, head gaskets done, manual trans | Clutch disc at 100k+, 2 minor damage events |
+| 3 | 2017 BMW 230i xDrive | $5,500 | 191,122 | Newest, best trans (ZF 8HP), great condition | No history, turbo at 191k, flipper |
 | 4 | 2014 VW Jetta 1.8T SE | $4,600 | 130,057 | Decent, FWD simplicity | Service gaps after 46k |
-| 5 | 2011 BMW 328i xDrive (Ann Arbor) | $4,200 | 192,500 | Cheapest, great documentation (38 records) | 192k, two accidents |
-| 6 | 2007 Mercedes-Benz C280 4MATIC | $5,500 | 89,305 | Lowest miles (89k), garage-kept | M272 balance shaft risk, 18 years old |
-| 7 | 2016 VW Passat 1.8T S | $4,800 | 169,977 | No accidents, decent engine | Repo, service gap, 170k turbo |
+| 5 | 2015 Subaru Impreza 5-speed | $5,000 | 190,000 | Simplest/cheapest to maintain, manual trans | Unknown history |
+| 6 | 2011 BMW 328i xDrive (Ann Arbor) | $4,200 | 192,500 | Cheapest, great documentation (38 records) | 192k, two accidents |
+| 7 | 2007 Mercedes-Benz C280 4MATIC | $5,500 | 89,305 | Lowest miles (89k), garage-kept | M272 balance shaft risk, 18 years old |
+| 8 | 2005 Honda CR-V LX FWD (Wilmington) | $5,700 | 196,049 | Zero accidents, Florida car, K24 engine | Overpriced, 143k mi near-zero service, FWD only |
+| 9 | 2016 VW Passat 1.8T S | $4,800 | 169,977 | No accidents, decent engine | Repo, service gap, 170k turbo |
 | ✗ | 2008 BMW 335i (San Diego) | $5,000 | 166,653 | — | **Hard no** — 3 damage events, repo, dealer carousel |
 | ✗ | 2012 BMW 328i xDrive (Sterling) | — | ~153,000 | — | **Pass** — 3 damage events, undisclosed accident, open airbag recall |
 | ✗ | 2011 Audi A4 2.0T Quattro | $4,400 | 132,262 | — | **Hard no** — EA888 Gen 1 oil burner |
 | ✗ | 2020 GMC Terrain SLT AWD | $3,000 | 126,237 | — | **Hard no** — Repo, no maintenance, accident |
 
-**Top recommendation:** The Schererville 328i is the safest buy — known service history, proven N52 engine, zero accidents. The Cincinnati 335i is a close second with better maintenance and fewer miles, but carries N54 turbo risk. Negotiate the 328i to $4,000–$4,200 citing water pump, oil pan gasket, and suspension unknowns.
+**Top recommendation:** The Schererville 328i remains the safest buy — known service history, proven N52 engine, zero accidents. The Cincinnati Impreza at #2 is the safest *mechanical* buy — 50k-mile engine, manual trans, all-Subaru-dealer service, cheap parts — but less fun to drive. The Cincinnati 335i (#1b) is the exciting high-risk/high-reward pick. All three are at the same dealer tier or better.
 
 ---
 
@@ -1094,6 +1096,132 @@ Suspension essentially rebuilt. Valve cover done. All brakes done. Trans fluid d
 
 ### Verdict
 **The Schererville 328i is significantly better.** Same generation, same engine, fewer miles, zero damage events, consistent dealer service, no failed inspections. One good ownership period sandwiched between neglect, plus an undisclosed accident. **Pass.**
+
+---
+
+## Vehicle #17 — 2012 Subaru Impreza 2.0i Manual (Cincinnati/Wilmington) — Strong Contender
+
+### Specs
+- **Mileage:** 144,547 mi (~50k on current engine)
+- **Engine:** FB20 2.0L Flat-4 (148 hp)
+- **Transmission:** 5-speed manual
+- **Drivetrain:** AWD
+- **Exterior:** Red
+- **Owners:** 3
+- **Accidents/Damage:** 1 minor accident + 1 minor damage report
+- **Asking price:** $4,900
+- **Seller:** Wilmington Auto Center (4.7 stars, 146 reviews) — same dealer as the Cincinnati 335i
+
+### Compressed Carfax
+
+| Owner | Period | Miles | Miles/Year | Notes |
+|-------|--------|-------|------------|-------|
+| 1 (lease) | Jul 2012 – Jul 2015 | 0 → 33,054 | ~11,000 | Cincinnati, OH. 100% Beechmont VW/Subaru service. Lease return. **Short block + oil level sensor replaced at CPO prep (33k).** Sold as Subaru Certified Pre-Owned. |
+| 2 | Jul 2015 – Jun 2019 | 33,147 → 87,147 | ~13,500 | Cincinnati/Bowling Green, OH. Beechmont service continued. **Clutch release bearing replaced @ 41,826 mi** (trans R&R). |
+| 3 | Jun 2019 – Mar 2025 | 87,147 → 144,489 | ~9,500 | Newport, KY → Cincinnati → West Chester, OH. Beechmont Subaru continued. Minor rear damage (09/2019). Minor accident (11/2019, left rear). **Head gaskets + short block replaced @ 94,434 mi.** Rear brakes + serpentine belt @ 130k. |
+
+### The Headline: TWO Short Block Replacements
+
+| Replacement | Miles | Date | Context |
+|-------------|-------|------|---------|
+| **1st** | ~33,054 | Jul 2015 | CPO prep — oil level sensor + short block. Classic FB20 oil consumption warranty fix. |
+| **2nd** | 94,434 | Feb 2020 | Head gaskets + short block + coolant flush. Head gasket failure or continued oil consumption. |
+
+Current engine has only **~50,000 miles.** Both replacements at Beechmont Subaru.
+
+### Service Timeline (Highlights)
+
+| Miles | Work | Shop |
+|-------|------|------|
+| 5k–30k | Regular oil/filter, tire rotations, 15k service, 30k major service (brake fluid, PCV, filters) | Beechmont VW |
+| 33k | **Short block replaced + oil level sensor** (CPO prep) | Beechmont VW |
+| 41,826 | **Clutch release bearing replaced, trans R&R** | Beechmont VW |
+| 45k–87k | Regular oil/filter, tire rotations, tires ×2, brake light switch | Beechmont VW/Subaru |
+| 93k | Oil/filter, air + cabin filters | Beechmont Subaru |
+| 94,434 | **Head gaskets + short block replaced, coolant flush** | Beechmont Subaru |
+| 101k–138k | Regular oil/filter, tire rotations every visit | Beechmont Subaru |
+| 130k | Rear brakes + rotors, serpentine belt | Beechmont Subaru |
+| 144k | Oil/filter (last service, 02/2025) | Beechmont Subaru |
+
+**30+ service records, virtually all at Beechmont Subaru for 13 years.** Most consistent service history in the entire search.
+
+### Damage Events
+
+| Date | Details |
+|------|---------|
+| 09/2019 | Minor rear damage (cosmetic, no accident) |
+| 11/2019 | Minor accident, front/side impact, left rear damage |
+
+Both cosmetic. No structural concern, no tow, no airbag deployment.
+
+### FB20 Known Issues — Status
+
+| Issue | Status |
+|-------|--------|
+| Oil consumption (piston rings) | ✅ Short block replaced ×2 |
+| Head gaskets | ✅ Replaced @ 94k |
+| Clutch release bearing | ✅ Replaced @ 41k |
+| PCV valve | ✅ Replaced @ 30k |
+| Timing chain | ✅ New with short block @ 94k |
+| Rear brakes | ✅ Replaced @ 130k |
+| Serpentine belt | ✅ Replaced @ 130k |
+| Clutch disc / pressure plate | ❓ ~100k on current clutch |
+| Front brakes | ❓ Not documented recently |
+| CV axles / boots | ❓ Not documented |
+
+### What to Ask
+- "How's the clutch feel? Any slipping at high RPM in 3rd/4th?"
+- "Any oil consumption between changes?"
+- "Any rust underneath?" (13-year-old Ohio/Kentucky car)
+- "Front brake pads — when were they last done?"
+- "Any CV boot tears or clicking on turns?"
+
+### Verdict
+**The sleeper of the search.** 100% Subaru dealer service for 13 years, the FB20's two biggest failure modes addressed at dealer level, manual trans eliminates CVT risk, and the current engine only has ~50k miles. At $4,900 from the same reputable dealer as the Cincinnati 335i, this is the **safest mechanical buy in the search** — cheaper parts than any BMW, simpler drivetrain, proven history. The clutch disc at 100k+ is the main unknown ($1,200 if needed). **Ranked #2.**
+
+---
+
+## Vehicle #18 -- 2005 Honda CR-V LX FWD (Wilmington) -- Overpriced
+
+### Specs
+- **Mileage:** 196,049 mi
+- **Engine:** K24A1 2.4L DOHC i-VTEC 4-cylinder (160 hp)
+- **Transmission:** 5-speed automatic
+- **Drivetrain:** FWD (NOT AWD)
+- **Exterior:** Gold/Tan
+- **Owners:** 3
+- **Accidents/Damage:** 0
+- **Open recall:** NHTSA #16V-344 -- Passenger airbag inflator (Takata). Left airbag replaced 03/2016; passenger side status unclear.
+- **Asking price:** $5,700
+- **Seller:** Wilmington Auto Center (4.7 stars, 146 reviews)
+
+### Compressed Carfax
+
+| Owner | Period | Miles | Miles/Year | Notes |
+|-------|--------|-------|------------|-------|
+| 1 | Feb 2004 -- Jun 2007 | 7 -> ~28,497 | ~9,500 | Orange Park / Green Cove Springs, FL. 100% Lucas Honda service. Meticulous: every interval hit, 30k major service done. |
+| 2 | Jun 2007 -- Oct 2008 | ~28,500 -> 52,525 | ~16,000 | Green Cove Springs, FL. Lucas Honda through 49k. 45k service done (trans fluid, cooling). Sold to Auction Direct USA @ 52k. Recon'd. |
+| 3 | Nov 2008 -- Feb 2026 | 52,536 -> 195,949 | ~8,200 | Jacksonville -> Tallahassee -> Columbus, OH. **143,000 miles / 17 years with near-zero documented maintenance.** 3 oil changes (2009-2010), 1 tire replacement (2013), 1 quick-lube (2014), 1 Honda visit for airbag recall (2016). Then 9 years in Columbus with zero service records. |
+
+### Owner 3 Service Gap Summary
+- Trans fluid last changed: 45k (151,000 miles ago)
+- Brake fluid last flushed: 28k (168,000 miles ago)
+- Coolant last flushed: 45k (151,000 miles ago)
+- Valve adjustment: never documented (Honda recommends every 30k)
+- Brake service: last at 52k recon (144,000 miles ago)
+
+### K24A1 Known Issues
+
+| Issue | Severity | Cost |
+|-------|----------|------|
+| Valve adjustment (overdue) | Yellow | $200--$400 |
+| Timing chain stretch | Yellow | $500--$1,000 |
+| AC compressor | Yellow | $400--$800 |
+| Power steering pump | Yellow | $200--$400 |
+| Automatic transmission (fluid never changed) | Yellow | $1,500--$3,000 |
+
+### Verdict
+The K24 is legendary, and Florida provenance means minimal rust for the first 12 years. But **Owner 3 treated this car like a disposable appliance for 17 years**, and $5,700 is a premium price that the service history doesn't justify. FWD only (no AWD for Michigan). At $4,000--$4,500 it would be a reasonable gamble on Honda reliability. At $5,700 it's the most expensive car in the search and worse-documented than the top 3 options that cost $800--$900 less. **Ranked #8 -- skip unless they come down to $4,000.**
 
 ---
 

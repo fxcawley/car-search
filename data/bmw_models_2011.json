@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "status": 200,
+    "messages": [],
+    "pagination": {
+      "count": 20,
+      "max": 20,
+      "offset": 0,
+      "sort": "id",
+      "order": null,
+      "total": 79,
+      "currentUrl": "https://api.nhtsa.gov/vehicles/models?offset=0&max=20&sort=id&make=BMW&modelYear=2011",
+      "nextUrl": "https://api.nhtsa.gov/vehicles/models?offset=20&max=20&sort=id&make=BMW&modelYear=2011",
+      "previousUrl": null
+    },
+    "filters": null,
+    "decoder": []
+  },
+  "results": [
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "128I"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "135I"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "135IS"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "323I"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "325"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "325I"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "325XI"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "328I"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "328I XDRIVE"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "330"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "330I"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "330XI"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "335 IS"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "335D"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "335I"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "335I XDRIVE"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "525I"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "525XI"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "528I"
+    },
+    {
+      "modelYear": 2011,
+      "make": "BMW",
+      "vehicleModel": "530I"
+    }
+  ]
+}
