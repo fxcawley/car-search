@@ -18,12 +18,12 @@ Sixteen vehicles were evaluated in total. Individual reports are in separate fil
 
 | Rank | Car | Price | Miles | Key Strength | Key Risk |
 |------|-----|-------|-------|-------------|----------|
-| **1** | **2011 BMW 328i xDrive (Schererville)** | $4,800 | 147,933 | Zero accidents, all-dealer N52 service | Water pump, 148k |
-| **1b** | **2008 BMW 335i (Cincinnati)** | $5,000 | ~130,000 | Best maintained, full suspension rebuild, 2 owners | N54 turbo/HPFP/injector risk |
-| 2 | 2017 BMW 230i xDrive | $5,500 | 191,122 | Newest, best trans (ZF 8HP), great condition | No history, turbo at 191k, flipper |
-| 3 | 2015 Subaru Impreza 5-speed | $5,000 | 190,000 | Simplest/cheapest to maintain, manual trans | Unknown history |
-| 4 | 2014 VW Jetta 1.8T SE | $4,600 | 130,057 | Decent, FWD simplicity | Service gaps after 46k |
-| 5 | 2011 BMW 328i xDrive (Ann Arbor) | $4,200 | 192,500 | Cheapest, great documentation (38 records) | 192k, two accidents |
+| **1** | [**2011 BMW 328i xDrive (Schererville)**](https://www.carfax.com/vehicle/WBAPK7C51BA820431) | $4,800 | 147,933 | Zero accidents, all-dealer N52 service | Water pump, 148k |
+| **1b** | [**2008 BMW 335i (Cincinnati)**](https://www.carfax.com/vehicle/WBAVB77558NM05700) | $5,000 | ~130,000 | Best maintained, full suspension rebuild, 2 owners | N54 turbo/HPFP/injector risk |
+| 2 | [2017 BMW 230i xDrive](https://detroit.craigslist.org/mcb/cto/d/richmond-2017-bmw-230xi-all-wheel-drive/7920278529.html) | $5,500 | 191,122 | Newest, best trans (ZF 8HP), great condition | No history, turbo at 191k, flipper |
+| 3 | [2015 Subaru Impreza 5-speed](https://kalamazoo.craigslist.org/cto/d/schoolcraft-2015-subaru-impreza-awd/7923553933.html) | $5,000 | 190,000 | Simplest/cheapest to maintain, manual trans | Unknown history |
+| 4 | [2014 VW Jetta 1.8T SE](https://pristinemotorscorp.mycarsonline.com/inventory/volkswagen/jetta/221661/) | $4,600 | 130,057 | Decent, FWD simplicity | Service gaps after 46k |
+| 5 | [2011 BMW 328i xDrive (Ann Arbor)](https://www.carfax.com/vehicle/WBAPK5G59BNN24807) | $4,200 | 192,500 | Cheapest, great documentation (38 records) | 192k, two accidents |
 | 6 | 2007 Mercedes-Benz C280 4MATIC | $5,500 | 89,305 | Lowest miles (89k), garage-kept | M272 balance shaft risk, 18 years old |
 | 7 | 2016 VW Passat 1.8T S | $4,800 | 169,977 | No accidents, decent engine | Repo, service gap, 170k turbo |
 | ✗ | 2008 BMW 335i (San Diego) | $5,000 | 166,653 | — | **Hard no** — 3 damage events, repo, dealer carousel |
