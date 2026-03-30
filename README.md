@@ -10,7 +10,7 @@ This document consolidates a multi-day used car search conducted in late March 2
 - **Low total cost of ownership** (parts + labor)
 - **Rust belt survivability** (all candidates are Midwest cars)
 
-Eighteen vehicles were evaluated in total. Individual reports are in separate files within this directory.
+Twenty-two vehicles were evaluated in total. Individual reports are in separate files within this directory.
 
 ---
 
@@ -23,14 +23,18 @@ Eighteen vehicles were evaluated in total. Individual reports are in separate fi
 | **2** | [**2012 Subaru Impreza 2.0i Manual (Cincinnati)**](https://www.wilmingtonautocentercdjr.com/inventory/used-2012-subaru-impreza-sedan-2-0i-jf1gjaa68cg011382-in-wilmington-oh) | $4,900 | 144,547 (~50k on engine) | 30+ Subaru dealer records, short block ×2, head gaskets done, manual trans | Clutch disc at 100k+, 2 minor damage events |
 | 3 | [2017 BMW 230i xDrive](https://detroit.craigslist.org/mcb/cto/d/richmond-2017-bmw-230xi-all-wheel-drive/7920278529.html) | $5,500 | 191,122 | Newest, best trans (ZF 8HP), great condition | No history, turbo at 191k, flipper |
 | 4 | [2014 VW Jetta 1.8T SE](https://pristinemotorscorp.mycarsonline.com/inventory/volkswagen/jetta/221661/) | $4,600 | 130,057 | Decent, FWD simplicity | Service gaps after 46k |
-| 5 | [2015 Subaru Impreza 5-speed](https://kalamazoo.craigslist.org/cto/d/schoolcraft-2015-subaru-impreza-awd/7923553933.html) | $5,000 | 190,000 | Simplest/cheapest to maintain, manual trans | Unknown history |
-| 6 | [2011 BMW 328i xDrive (Ann Arbor)](https://www.carfax.com/vehicle/WBAPK5G59BNN24807) | $4,200 | 192,500 | Cheapest, great documentation (38 records) | 192k, two accidents |
-| 7 | [2007 Mercedes-Benz C280 4MATIC](https://detroit.craigslist.org/okl/cto/d/birmingham-2007-mercedes-benz-class/7924263242.html) | $5,500 | 89,305 | Lowest miles (89k), garage-kept | M272 balance shaft risk, 18 years old |
-| 8 | 2005 Honda CR-V LX FWD (Wilmington) | $5,700 | 196,049 | Zero accidents, Florida car, K24 engine | Overpriced, 143k mi near-zero service, FWD only |
-| 9 | 2016 VW Passat 1.8T S | $4,800 | 169,977 | No accidents, decent engine | Repo, service gap, 170k turbo |
+| 5 | [2002 Mercedes-Benz ML320 (BaT)](https://www.carfax.com/vehicle/4JGBB86E69A494940) | ~$2,900 | ~107,000 | M112 V6 (simplest engine in search), CA car, lowest price, AWD w/ low range | 24 yrs old, near-zero service docs, sat 12 yrs |
+| 5 | [2009 Mercedes-Benz ML 350 4MATIC (Indianapolis)](https://www.carfax.com/vehicle/4JGBB86E69A494940) | Call | ~160,000+ | 17 years all-MB-dealer service, 4MATIC AWD | M272 balance shaft, 16 yrs old, A/C x2, unknown price |
+| 6 | [2015 Subaru Impreza 5-speed](https://kalamazoo.craigslist.org/cto/d/schoolcraft-2015-subaru-impreza-awd/7923553933.html) | $5,000 | 190,000 | Simplest/cheapest to maintain, manual trans | Unknown history |
+| 7 | [2011 BMW 328i xDrive (Ann Arbor)](https://www.carfax.com/vehicle/WBAPK5G59BNN24807) | $4,200 | 192,500 | Cheapest, great documentation (38 records) | 192k, two accidents |
+| 8 | [2007 Mercedes-Benz C280 4MATIC](https://detroit.craigslist.org/okl/cto/d/birmingham-2007-mercedes-benz-class/7924263242.html) | $5,500 | 89,305 | Lowest miles (89k), garage-kept | M272 balance shaft risk, 18 years old |
+| 9 | 2005 Honda CR-V LX FWD (Wilmington) | $5,700 | 196,049 | Zero accidents, Florida car, K24 engine | Overpriced, 143k mi near-zero service, FWD only |
+| 10 | 2016 VW Passat 1.8T S | $4,800 | 169,977 | No accidents, decent engine | Repo, service gap, 170k turbo |
 | ✗ | 2008 BMW 335i (San Diego) | $5,000 | 166,653 | — | **Hard no** — 3 damage events, repo, dealer carousel |
 | ✗ | 2012 BMW 328i xDrive (Sterling) | — | ~153,000 | — | **Pass** — 3 damage events, undisclosed accident, open airbag recall |
 | ✗ | 2011 Audi A4 2.0T Quattro | $4,400 | 132,262 | — | **Hard no** — EA888 Gen 1 oil burner |
+| ✗ | 2012 VW Jetta SportWagen TDI (Clinton Twp) | ? | 182,064 | — | **Pass** — Interference engine, timing belt unknown at 182k, zero service after 36k |
+| ✗ | 2012 BMW 750Li (California) | $5,500 | ~134,520 | — | **Hard no** — N63 engine (replaced at 42k), moderate-to-severe all-body damage |
 | ✗ | 2020 GMC Terrain SLT AWD | $3,000 | 126,237 | — | **Hard no** — Repo, no maintenance, accident |
 
 **Top recommendation:** The Schererville 328i remains the safest buy — known service history, proven N52 engine, zero accidents. The Cincinnati Impreza at #2 is the safest *mechanical* buy — 50k-mile engine, manual trans, all-Subaru-dealer service, cheap parts — but less fun to drive. The Cincinnati 335i (#1b) is the exciting high-risk/high-reward pick. All three are at the same dealer tier or better.
@@ -59,4 +63,8 @@ Eighteen vehicles were evaluated in total. Individual reports are in separate fi
 | [16-2012-bmw-328i-sterling.md](16-2012-bmw-328i-sterling.md) | 2012 BMW 328i xDrive (Sterling/Automania) -- PASS |
 | [17-2012-subaru-impreza-cincinnati.md](17-2012-subaru-impreza-cincinnati.md) | 2012 Subaru Impreza 2.0i Manual (Cincinnati) -- STRONG CONTENDER |
 | [18-2005-honda-crv-wilmington.md](18-2005-honda-crv-wilmington.md) | 2005 Honda CR-V LX FWD (Wilmington) -- OVERPRICED |
+| [19-2012-bmw-750li.md](19-2012-bmw-750li.md) | 2012 BMW 750Li (California) -- HARD PASS |
+| [20-2009-mercedes-ml350-indianapolis.md](20-2009-mercedes-ml350-indianapolis.md) | 2009 Mercedes-Benz ML 350 4MATIC (Indianapolis) |
+| [21-2002-mercedes-ml320-bat.md](21-2002-mercedes-ml320-bat.md) | 2002 Mercedes-Benz ML320 (BaT Auction) |
+| [22-2012-vw-jetta-sportwagen-tdi.md](22-2012-vw-jetta-sportwagen-tdi.md) | 2012 VW Jetta SportWagen TDI (Clinton Twp) -- PASS |
 | [buying-advice.md](buying-advice.md) | General Buying Advice |

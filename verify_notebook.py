@@ -1,99 +1,8 @@
-#!/usr/bin/env python3
-# build_notebook.py
-# Programmatically builds a Jupyter notebook (.ipynb) for statistical analysis
-# of a 2011 BMW 328i xDrive (Schererville, IN listing).
-# Generates: C:\\Users\\lcawley\\bridge\\analysis.ipynb
+import matplotlib; matplotlib.use("Agg")  # headless
 
-import json
-import os
+# ===== CODE CELL 0 =====
 
-# ─── Notebook scaffolding helpers ──────────────────────────────────────────────
-
-def make_nb():
-    """Return an empty notebook dict (nbformat 4.5)."""
-    return {
-        "nbformat": 4,
-        "nbformat_minor": 5,
-        "metadata": {
-            "kernelspec": {
-                "display_name": "Python 3",
-                "language": "python",
-                "name": "python3"
-            },
-            "language_info": {
-                "name": "python",
-                "version": "3.14.3"
-            }
-        },
-        "cells": []
-    }
-
-_cell_id = 0
-def _next_id():
-    global _cell_id
-    _cell_id += 1
-    return f"cell-{_cell_id:04d}"
-
-def md(source: str):
-    """Return a markdown cell dict."""
-    return {
-        "id": _next_id(),
-        "cell_type": "markdown",
-        "metadata": {},
-        "source": source.strip().splitlines(True)
-    }
-
-def code(source: str):
-    """Return a code cell dict."""
-    return {
-        "id": _next_id(),
-        "cell_type": "code",
-        "metadata": {},
-        "source": source.strip().splitlines(True),
-        "outputs": [],
-        "execution_count": None
-    }
-
-# ─── Build cells ───────────────────────────────────────────────────────────────
-
-cells = []
-
-# ============================================================================
-# Cell 0 – Title / Intro (markdown)
-# ============================================================================
-cells.append(md(r"""
-# 2011 BMW 328i xDrive (Schererville, IN) — Statistical Background Check
-
-**Purpose:** Place one specific used car within the *population distribution*
-of all 2011 BMW 328i vehicles using real market listings and NHTSA safety data.
-
-| Attribute | Value |
-|-----------|-------|
-| **VIN** | WBAPK7C51BA820431 |
-| **Engine** | N52 3.0 L Inline-6, naturally aspirated |
-| **Drivetrain** | xDrive AWD |
-| **Odometer** | 147,933 mi |
-| **Asking price** | $4,800 |
-| **History** | 0 accidents · 3 owners · near-100 % BMW dealer service |
-| **Known work** | Valve cover @ 86 k, PS pump @ 133 k |
-| **Unknown status** | Water pump, oil-pan gasket, front struts |
-
-### Data sources
-
-| File | Records | Description |
-|------|---------|-------------|
-| `market_listings_raw.json` | 15 listings | Current AutoList.com listings for 2011 BMW 328i (scraped 2025-03-29) |
-| `complaints_2011_328I.json` | 678 complaints | All NHTSA complaints for 2011 BMW 328I |
-| `complaints_with_mileage.json` | 210 complaints | Subset with mileage extracted from narrative |
-| `complaints_2012_328I.json` | 143 complaints | 2012 model-year (comparison cohort) |
-| `recalls_2011_328I.json` | 7 recalls | All NHTSA recall campaigns for 2011 BMW 328I |
-"""))
-
-# ============================================================================
-# Cell 1 – Imports & data loading (code)
-# ============================================================================
-cells.append(code(r"""
-%matplotlib inline
+# (inline magic removed)
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -150,24 +59,10 @@ print(f"{'2011 NHTSA complaints':<35} {len(c11):>7}")
 print(f"{'2012 NHTSA complaints (comparison)':<35} {len(c12):>7}")
 print(f"{'Complaints with mileage':<35} {len(mileage_data):>7}")
 print(f"{'NHTSA recalls':<35} {len(recalls):>7}")
-"""))
 
-# ============================================================================
-# Cell 2 – Markdown: Price Distribution
-# ============================================================================
-cells.append(md(r"""
-## 1. Market Position: Price Distribution
 
-We compare the $4,800 asking price against 15 current AutoList.com listings for the
-same model year (2011 BMW 328i, all trims). The left panel shows the probability
-density (histogram + KDE), and the right panel shows the cumulative distribution
-function (CDF). A vertical red line marks our car.
-"""))
+# ===== CODE CELL 1 =====
 
-# ============================================================================
-# Cell 3 – Price distribution plot (code)
-# ============================================================================
-cells.append(code(r"""
 prices = np.array([l['price'] for l in listings])
 
 # Empirical percentile (% of listings with price <= ours)
@@ -228,25 +123,10 @@ print(f"  Market median: ${np.median(prices):,.0f}")
 print(f"  Our price    : ${OUR_PRICE:,}")
 print(f"  Percentile   : {pct_price:.1f}th  (only {(prices <= OUR_PRICE).sum()} of {len(prices)} listings ≤ ${OUR_PRICE:,})")
 print(f"{'='*55}")
-"""))
 
-# ============================================================================
-# Cell 4 – Markdown: Mileage Distribution
-# ============================================================================
-cells.append(md(r"""
-## 2. Mileage Distribution: Where 148k Sits
 
-Our car's odometer reads **147,933 miles**, which is **above the maximum mileage**
-among the 15 current AutoList listings (max ≈ 140 k). This means the car sits
-beyond the right tail of what's currently offered on the open market — most
-328i's at this mileage have already been bought, scrapped, or de-listed because
-the price floor makes listing them uneconomical.
-"""))
+# ===== CODE CELL 2 =====
 
-# ============================================================================
-# Cell 5 – Mileage distribution plot (code)
-# ============================================================================
-cells.append(code(r"""
 miles = np.array([l['mileage'] for l in listings])
 
 pct_mileage = (miles <= OUR_MILEAGE).sum() / len(miles) * 100
@@ -306,24 +186,10 @@ print(f"  Percentile   : >{pct_mileage:.0f}th — our car exceeds ALL {len(miles
 print(f"  Interpretation: Cars at this mileage are rarely listed; most have")
 print(f"                  been bought, scrapped, or aren't worth listing.")
 print(f"{'='*60}")
-"""))
 
-# ============================================================================
-# Cell 6 – Markdown: Price vs Mileage
-# ============================================================================
-cells.append(md(r"""
-## 3. Price vs. Mileage: Value Assessment
 
-A scatter plot with linear and polynomial regression quantifies the expected
-price at 148 k miles by extrapolating the market trend. The residual (actual price
-minus predicted price) tells us whether the Schererville car is over- or
-under-priced relative to the current market.
-"""))
+# ===== CODE CELL 3 =====
 
-# ============================================================================
-# Cell 7 – Price vs Mileage scatter + regression (code)
-# ============================================================================
-cells.append(code(r"""
 fig, ax = plt.subplots(figsize=(10, 7))
 
 # Scatter — size by inverse deal quality (bigger = worse deal)
@@ -411,23 +277,10 @@ if best_delta < 0:
 else:
     print(f"  ▸ Asking price ${OUR_PRICE:,} is ${best_delta:,.0f} ABOVE prediction — slight premium.")
 print(f"{'='*60}")
-"""))
 
-# ============================================================================
-# Cell 8 – Markdown: NHTSA Complaint Landscape
-# ============================================================================
-cells.append(md(r"""
-## 4. NHTSA Complaint Landscape: What Fails on These Cars
 
-The 2011 BMW 328I has **678 total NHTSA complaints** — a substantial dataset.
-Below we group complaints by component category, colour-coded by severity, to
-reveal the dominant failure modes.
-"""))
+# ===== CODE CELL 4 =====
 
-# ============================================================================
-# Cell 9 – Component failure bar chart (code)
-# ============================================================================
-cells.append(code(r"""
 # ── Normalise component names ──────────────────────────────────────────────
 def norm_component(raw):
     '''Map raw NHTSA component string to a tidy category.'''
@@ -529,23 +382,10 @@ print(f"  Electrical                 : {elec_pct:.1f}%")
 print(f"  Airbags (recall-driven)    : {airbag_pct:.1f}%")
 print(f"  Top component: {comp_counts.index[0]} ({comp_counts.values[0]} complaints, {comp_counts.values[0]/total*100:.1f}%)")
 print(f"{'='*55}")
-"""))
 
-# ============================================================================
-# Cell 10 – Markdown: Failure Timeline by Mileage
-# ============================================================================
-cells.append(md(r"""
-## 5. Failure Timeline by Mileage: When Things Break
 
-Using the 210 complaints where mileage was extractable from the narrative text,
-we build the mileage-at-failure distribution. The critical question: **what
-percentage of all reported failures have already occurred before 148 k miles?**
-"""))
+# ===== CODE CELL 5 =====
 
-# ============================================================================
-# Cell 11 – Mileage-at-failure distribution (code)
-# ============================================================================
-cells.append(code(r"""
 df_mi = pd.DataFrame(mileage_data)
 mi_vals = df_mi['mileage'].values
 
@@ -616,23 +456,10 @@ for comp in top_components:
     print(f"    {comp:<18}: {pct_c:.0f}% occurred by {OUR_MILEAGE:,} mi  "
           f"({(vals_c <= OUR_MILEAGE).sum()}/{len(vals_c)})")
 print(f"{'='*65}")
-"""))
 
-# ============================================================================
-# Cell 12 – Markdown: Complaint Trajectory
-# ============================================================================
-cells.append(md(r"""
-## 6. Complaint Trajectory Over Time: Is the 328i Getting Worse?
 
-NHTSA complaints are filed over the full lifespan of a model. A time-series
-view helps distinguish genuine failure-rate increases from recall-awareness spikes.
-We also compare the 2011 model (678 complaints) against the 2012 model (143).
-"""))
+# ===== CODE CELL 6 =====
 
-# ============================================================================
-# Cell 13 – Time series of complaints (code)
-# ============================================================================
-cells.append(code(r"""
 from collections import Counter
 
 def extract_year(date_str):
@@ -706,23 +533,10 @@ print(f"  Organic trend (excl. recall spikes): {trend}")
 print(f"  Note: Large spikes in 2017 and 2024 correlate with recall awareness,")
 print(f"        not sudden mechanical degradation.")
 print(f"{'='*60}")
-"""))
 
-# ============================================================================
-# Cell 14 – Markdown: Recall Risk Assessment
-# ============================================================================
-cells.append(md(r"""
-## 7. Recall Risk Assessment
 
-There are **7 NHTSA recall campaigns** covering the 2011 BMW 328I. The Carfax
-for VIN WBAPK7C51BA820431 shows **0 open recalls** as of the most recent check,
-suggesting all applicable campaigns have been remedied.
-"""))
+# ===== CODE CELL 7 =====
 
-# ============================================================================
-# Cell 15 – Recall table + visualization (code)
-# ============================================================================
-cells.append(code(r"""
 # Build recall DataFrame
 recall_rows = []
 severity_map = {
@@ -753,7 +567,7 @@ for r in recalls:
 df_recalls = pd.DataFrame(recall_rows)
 
 # Sort by date
-df_recalls['_date'] = pd.to_datetime(df_recalls['Date'], format='%d/%m/%Y')
+df_recalls['_date'] = pd.to_datetime(df_recalls['Date'], format='%m/%d/%Y')
 df_recalls = df_recalls.sort_values('_date').drop(columns='_date').reset_index(drop=True)
 
 # Colour-coded display
@@ -784,23 +598,10 @@ ax.set_xlim(0, sev_counts.max() + 1.5)
 plt.tight_layout()
 plt.savefig(DATA / 'fig7_recalls.png', dpi=150, bbox_inches='tight')
 plt.show()
-"""))
 
-# ============================================================================
-# Cell 16 – Markdown: Distribution Curve Summary
-# ============================================================================
-cells.append(md(r"""
-## 8. Where This Car Lives on the Distribution Curve
 
-A single summary figure placing our car along four key dimensions: price
-percentile, failure-mileage percentile, remaining hazard by component, and
-projected cost scenarios.
-"""))
+# ===== CODE CELL 8 =====
 
-# ============================================================================
-# Cell 17 – Summary quad-plot (code)
-# ============================================================================
-cells.append(code(r"""
 fig, axes = plt.subplots(2, 2, figsize=(16, 11))
 
 # ── Top-Left: Price percentile gauge ──────────────────────────────────────
@@ -893,23 +694,10 @@ plt.suptitle('Dashboard — 2011 BMW 328i xDrive @ $4,800 / 148k mi',
 plt.tight_layout()
 plt.savefig(DATA / 'fig8_summary_dashboard.png', dpi=150, bbox_inches='tight')
 plt.show()
-"""))
 
-# ============================================================================
-# Cell 18 – Markdown: Best / Worst Case
-# ============================================================================
-cells.append(md(r"""
-## 9. Best Case / Worst Case Scenarios
 
-Below we model three ownership scenarios over a 2–4 year horizon, estimating
-total outlay, annual driving cost, and cost-per-mile. All maintenance estimates
-are based on typical BMW N52 repair costs at independent shops.
-"""))
+# ===== CODE CELL 9 =====
 
-# ============================================================================
-# Cell 19 – Scenario analysis (code)
-# ============================================================================
-cells.append(code(r"""
 # ── Scenario definitions ──────────────────────────────────────────────────
 
 scenarios_detail = {
@@ -1057,21 +845,10 @@ ax2.yaxis.set_major_formatter(mticker.StrMethodFormatter('${x:.2f}'))
 plt.tight_layout()
 plt.savefig(DATA / 'fig9_scenario_analysis.png', dpi=150, bbox_inches='tight')
 plt.show()
-"""))
 
-# ============================================================================
-# Cell 20 – Markdown: Conclusions
-# ============================================================================
-cells.append(md(r"""
-## 10. Conclusions and Distributional Summary
 
-A final synthesis of every statistical dimension analysed above.
-"""))
+# ===== CODE CELL 10 =====
 
-# ============================================================================
-# Cell 21 – Final summary (code)
-# ============================================================================
-cells.append(code(r"""
 # Recompute key metrics for summary
 pct_price_final = (prices <= OUR_PRICE).sum() / len(prices) * 100
 pct_mileage_final = (miles <= OUR_MILEAGE).sum() / len(miles) * 100
@@ -1151,17 +928,4 @@ print("║" + f"     CONFIDENCE: Moderate — the service history is a strong".l
 print("║" + f"     positive, but 148k mi on an N52 means the water pump".ljust(70) + "║")
 print("║" + f"     and oil-pan gasket are statistically overdue.".ljust(70) + "║")
 print("╚" + "═"*70 + "╝")
-"""))
 
-# ─── Assemble and write notebook ──────────────────────────────────────────────
-
-nb = make_nb()
-nb['cells'] = cells
-
-out_path = r'C:\Users\lcawley\bridge\analysis.ipynb'
-with open(out_path, 'w', encoding='utf-8') as f:
-    json.dump(nb, f, indent=1, ensure_ascii=False)
-
-print(f"Notebook written to {out_path}")
-print(f"Total cells: {len(cells)} ({sum(1 for c in cells if c['cell_type']=='markdown')} markdown, "
-      f"{sum(1 for c in cells if c['cell_type']=='code')} code)")

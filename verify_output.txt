@@ -1,0 +1,96 @@
+Dataset                             Records
+--------------------------------------------
+Market listings                          15
+2011 NHTSA complaints                   678
+2012 NHTSA complaints (comparison)      143
+Complaints with mileage                 210
+NHTSA recalls                             7
+
+=======================================================
+  PRICE ANALYSIS  (n = 15 listings)
+=======================================================
+  Market range : $4,495 – $10,995
+  Market mean  : $7,704
+  Market median: $7,991
+  Our price    : $4,800
+  Percentile   : 6.7th  (only 1 of 15 listings ≤ $4,800)
+=======================================================
+
+============================================================
+  MILEAGE ANALYSIS  (n = 15 listings)
+============================================================
+  Market range : 67,131.0 – 140,000.0 mi
+  Market mean  : 108,812 mi
+  Market median: 107,202 mi
+  Our mileage  : 147,933 mi
+  Percentile   : >100th — our car exceeds ALL 15 current listings.
+  Interpretation: Cars at this mileage are rarely listed; most have
+                  been bought, scrapped, or aren't worth listing.
+============================================================
+
+============================================================
+  PRICE-vs-MILEAGE REGRESSION  (n = 15 listings)
+============================================================
+  Linear model : price = -0.0284 × mileage + 10,797
+     R²        : 0.168
+     Predicted  : $6,592  at 147,933 mi
+     Residual   : $-1,792  (UNDER-priced)
+
+  Quadratic     : R² = 0.186
+     Predicted  : $7,107  at 147,933 mi
+     Residual   : $-2,307  (UNDER-priced)
+
+  ▸ Best-fit model: Quadratic (higher R²)
+  ▸ At 147,933 mi the market predicts ≈$7,107.
+  ▸ Asking price $4,800 is $2,307 BELOW prediction — appears under-valued.
+============================================================
+
+=======================================================
+  COMPONENT FAILURE SUMMARY  (n = 678 complaints)
+=======================================================
+  Engine / Powertrain / Fuel : 52.5%  — dominant failure mode
+  Electrical                 : 20.4%
+  Airbags (recall-driven)    : 15.0%
+  Top component: ENGINE (310 complaints, 45.7%)
+=======================================================
+
+=================================================================
+  MILEAGE-AT-FAILURE ANALYSIS  (n = 210 complaints with mileage)
+=================================================================
+  ★ 83% of all reported failures occur AT OR BEFORE 147,933 miles.
+  ★ 17% of failures remain AHEAD of us (>147,933 mi).
+
+  Component-specific (% of that component's failures ≤ 147,933 mi):
+    ENGINE            : 79% occurred by 147,933 mi  (107/136)
+    ELECTRICAL        : 87% occurred by 147,933 mi  (26/30)
+    POWER TRAIN       : 93% occurred by 147,933 mi  (13/14)
+=================================================================
+
+============================================================
+  COMPLAINT TRAJECTORY
+============================================================
+  2011 328I total complaints : 678
+  2012 328I total complaints : 143
+  Ratio (2011 / 2012)        : 4.7×  (expected — 2011 sold far more)
+  Organic trend (excl. recall spikes): decreasing
+  Note: Large spikes in 2017 and 2024 correlate with recall awareness,
+        not sudden mechanical degradation.
+============================================================
+Traceback (most recent call last):
+  File "C:\Users\lcawley\bridge\verify_notebook.py", line 570, in <module>
+    df_recalls['_date'] = pd.to_datetime(df_recalls['Date'], format='%m/%d/%Y')
+                          ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lcawley\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pandas\core\tools\datetimes.py", line 1072, in to_datetime
+    values = convert_listlike(arg._values, format)
+  File "C:\Users\lcawley\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pandas\core\tools\datetimes.py", line 435, in _convert_listlike_datetimes
+    return _array_strptime_with_fallback(arg, name, utc, format, exact, errors)
+  File "C:\Users\lcawley\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\pandas\core\tools\datetimes.py", line 469, in _array_strptime_with_fallback
+    result, tz_out = array_strptime(arg, fmt, exact=exact, errors=errors, utc=utc)
+                     ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pandas/_libs/tslibs/strptime.pyx", line 501, in pandas._libs.tslibs.strptime.array_strptime
+  File "pandas/_libs/tslibs/strptime.pyx", line 451, in pandas._libs.tslibs.strptime.array_strptime
+  File "pandas/_libs/tslibs/strptime.pyx", line 583, in pandas._libs.tslibs.strptime._parse_with_format
+ValueError: time data "15/01/2020" doesn't match format "%m/%d/%Y", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.

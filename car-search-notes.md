@@ -10,7 +10,7 @@ This document consolidates a multi-day used car search conducted in late March 2
 - **Low total cost of ownership** (parts + labor)
 - **Rust belt survivability** (all candidates are Midwest cars)
 
-Eighteen vehicles were evaluated in total. Each section below contains the full Carfax summary, known platform issues, a red/yellow/green assessment, and the final verdict.
+Twenty-two vehicles were evaluated in total. Each section below contains the full Carfax summary, known platform issues, a red/yellow/green assessment, and the final verdict.
 
 ---
 
@@ -23,14 +23,18 @@ Eighteen vehicles were evaluated in total. Each section below contains the full 
 | **2** | **2012 Subaru Impreza 2.0i Manual (Cincinnati)** | $4,900 | 144,547 (~50k on engine) | 30+ Subaru dealer records, short block ×2, head gaskets done, manual trans | Clutch disc at 100k+, 2 minor damage events |
 | 3 | 2017 BMW 230i xDrive | $5,500 | 191,122 | Newest, best trans (ZF 8HP), great condition | No history, turbo at 191k, flipper |
 | 4 | 2014 VW Jetta 1.8T SE | $4,600 | 130,057 | Decent, FWD simplicity | Service gaps after 46k |
-| 5 | 2015 Subaru Impreza 5-speed | $5,000 | 190,000 | Simplest/cheapest to maintain, manual trans | Unknown history |
-| 6 | 2011 BMW 328i xDrive (Ann Arbor) | $4,200 | 192,500 | Cheapest, great documentation (38 records) | 192k, two accidents |
-| 7 | 2007 Mercedes-Benz C280 4MATIC | $5,500 | 89,305 | Lowest miles (89k), garage-kept | M272 balance shaft risk, 18 years old |
-| 8 | 2005 Honda CR-V LX FWD (Wilmington) | $5,700 | 196,049 | Zero accidents, Florida car, K24 engine | Overpriced, 143k mi near-zero service, FWD only |
-| 9 | 2016 VW Passat 1.8T S | $4,800 | 169,977 | No accidents, decent engine | Repo, service gap, 170k turbo |
+| 5 | 2002 Mercedes-Benz ML320 (BaT) | ~$2,900 | ~107,000 | M112 V6 (simplest engine in search), CA car, lowest price, AWD w/ low range | 24 yrs old, near-zero service docs, sat 12 yrs |
+| 5 | 2009 Mercedes-Benz ML 350 4MATIC (Indianapolis) | Call | ~160,000+ | 17 years all-MB-dealer service, 4MATIC AWD | M272 balance shaft, 16 yrs old, A/C x2, unknown price |
+| 6 | 2015 Subaru Impreza 5-speed | $5,000 | 190,000 | Simplest/cheapest to maintain, manual trans | Unknown history |
+| 7 | 2011 BMW 328i xDrive (Ann Arbor) | $4,200 | 192,500 | Cheapest, great documentation (38 records) | 192k, two accidents |
+| 8 | 2007 Mercedes-Benz C280 4MATIC | $5,500 | 89,305 | Lowest miles (89k), garage-kept | M272 balance shaft risk, 18 years old |
+| 9 | 2005 Honda CR-V LX FWD (Wilmington) | $5,700 | 196,049 | Zero accidents, Florida car, K24 engine | Overpriced, 143k mi near-zero service, FWD only |
+| 10 | 2016 VW Passat 1.8T S | $4,800 | 169,977 | No accidents, decent engine | Repo, service gap, 170k turbo |
 | ✗ | 2008 BMW 335i (San Diego) | $5,000 | 166,653 | — | **Hard no** — 3 damage events, repo, dealer carousel |
 | ✗ | 2012 BMW 328i xDrive (Sterling) | — | ~153,000 | — | **Pass** — 3 damage events, undisclosed accident, open airbag recall |
 | ✗ | 2011 Audi A4 2.0T Quattro | $4,400 | 132,262 | — | **Hard no** — EA888 Gen 1 oil burner |
+| ✗ | 2012 VW Jetta SportWagen TDI (Clinton Twp) | ? | 182,064 | — | **Pass** — Interference engine, timing belt unknown at 182k, zero service after 36k |
+| ✗ | 2012 BMW 750Li (California) | $5,500 | ~134,520 | — | **Hard no** — N63 engine (replaced at 42k), moderate-to-severe all-body damage |
 | ✗ | 2020 GMC Terrain SLT AWD | $3,000 | 126,237 | — | **Hard no** — Repo, no maintenance, accident |
 
 **Top recommendation:** The Schererville 328i remains the safest buy — known service history, proven N52 engine, zero accidents. The Cincinnati Impreza at #2 is the safest *mechanical* buy — 50k-mile engine, manual trans, all-Subaru-dealer service, cheap parts — but less fun to drive. The Cincinnati 335i (#1b) is the exciting high-risk/high-reward pick. All three are at the same dealer tier or better.
@@ -1222,6 +1226,176 @@ Both cosmetic. No structural concern, no tow, no airbag deployment.
 
 ### Verdict
 The K24 is legendary, and Florida provenance means minimal rust for the first 12 years. But **Owner 3 treated this car like a disposable appliance for 17 years**, and $5,700 is a premium price that the service history doesn't justify. FWD only (no AWD for Michigan). At $4,000--$4,500 it would be a reasonable gamble on Honda reliability. At $5,700 it's the most expensive car in the search and worse-documented than the top 3 options that cost $800--$900 less. **Ranked #8 -- skip unless they come down to $4,000.**
+
+---
+
+## Vehicle #19 -- 2012 BMW 750Li (California) -- HARD PASS
+
+### Specs
+- **Mileage:** ~134,520 mi (~91,500 on replacement engine)
+- **Engine:** N63 4.4L Twin-Turbo V8 (400 hp)
+- **Transmission:** 6-speed automatic
+- **Drivetrain:** RWD
+- **Owners:** 3
+- **Accidents/Damage:** 2 events (1 moderate-to-severe, all body panels)
+- **Asking price:** $5,500
+
+### Compressed Carfax
+
+| Owner | Period | Miles | Notes |
+|-------|--------|-------|-------|
+| 1 (lease) | Feb 2012 -- Jun 2015 | 17 -> 30,305 | San Diego, CA. BMW of Carlsbad service. Fuel injectors + spark plugs replaced at 17k (way too early). Sold at auction. |
+| 2 | Jul 2015 -- Nov 2015 | 30,305 -> 34,827 | Las Vegas, NV. **Owned 3 months, dumped it.** A/C recharged at 33k. |
+| 3 | Jan 2016 -- May 2025 | ~34,827 -> 134,520 | Las Vegas -> SLO County, CA. **Engine replaced at 42,943 mi.** Minor damage (07/2017). **Moderate-to-severe all-body damage (05/2019).** Fuel injectors replaced again at 110k. Spark plugs replaced 2 more times. Extensive cooling system work. |
+
+### Showstoppers
+
+**1. Engine replaced at 42,943 mi** -- N63 failed so badly it needed full replacement. Replacement is the same flawed design with ~91k on it now.
+
+**2. Moderate-to-severe damage (05/2019)** -- All eight body locations damaged. Same catastrophic pattern as the San Diego 335i. Never branded salvage.
+
+### N63 Engine -- BMW's Worst Modern Engine
+The "hot-V" twin-turbo V8 with turbos sitting in the engine valley, cooking everything around them. BMW issued a "Customer Care Package" (unofficial extended warranty) because the failure rate was so high. On this car:
+- Engine already failed once (replaced at 42k)
+- Fuel injectors replaced twice (17k and 110k)
+- Spark plugs replaced three times (17k, 107k, 119k)
+- Cooling system: lower radiator hose (101k), upper radiator hose (107k), coolant flush x2, aux fan switch (101k)
+- Typical repair costs: $1,600--$2,400 for injectors, $3,000--$5,000 for valve stem seals, $3,000--$5,000 per turbo
+
+### Verdict
+**Hard pass.** The textbook "nothing is more expensive than a cheap luxury car." The N63 already destroyed itself once at 42k. The replacement has the same design flaws. Moderate-to-severe all-body damage. At $5,500 this costs more than the Schererville 328i ($4,800), Cincinnati Impreza ($4,900), or Cincinnati 335i ($5,000) -- all dramatically safer bets. The 400 hp and luxury are seductive but the N63 will eat your budget alive. **Do not buy this car.**
+
+---
+
+## Vehicle #20 -- 2009 Mercedes-Benz ML 350 4MATIC (Indianapolis) -- Interesting Find
+
+### Specs
+- **Mileage:** ~160,000+ mi (last reliable reading 160,000 on 08/2025; subsequent "5,500" entries are clerical errors)
+- **Engine:** M272 E35 3.5L V6 DOHC 24V (268 hp)
+- **Transmission:** 7G-Tronic 7-speed automatic
+- **Drivetrain:** 4MATIC AWD
+- **Exterior:** Silver
+- **Owners:** 2 (plus dealer ownership period)
+- **Accidents/Damage:** 1 (front + left front, airbags did not deploy)
+- **Asking price:** Call for price
+- **Seller:** Mercedes-Benz of Indianapolis (4.4 stars) -- same dealer that serviced this car for 17 years
+- **Listing:** https://www.carfax.com/vehicle/4JGBB86E69A494940
+
+### Compressed Carfax
+
+| Owner | Period | Miles | Miles/Year | Notes |
+|-------|--------|-------|------------|-------|
+| 1 (lease) | Nov 2008 -- Jul 2011 | 17 -> ~30,458 | ~12,000 | Indianapolis. 100% MB of Indy service. 20k service done. Early warranty work (windshield, water leak/carpet, wheel, mirror). |
+| 2 | Jul 2011 -- Oct 2021 | ~30,458 -> ~94,307 | ~6,400 | Indianapolis. Low-mileage owner. MB of Indy + Tom Wood Lexus + Silver Star (MB specialist). Major work at 40k: A/C compressor, valve cover gasket, trans R&R. Comprehensive 60k service. |
+| Dealer/3 | Oct 2021 -- present | ~94,307 -> ~160,000+ | ~13,000 | Accident (02/2022, front + left front, no airbag deploy). Intensive MB of Indy service: brakes (front + rear), tires x2, PS system x2, A/C compressor (2nd time), battery, belt tensioners, thermostat, coolant flush. Now being sold by MB of Indy. |
+
+### Key Highlights
+- **Nearly every service record in 17 years is at MB of Indianapolis** -- best single-dealer provenance in the search
+- **Being sold by the dealer that serviced it** -- they know this car intimately
+- **40+ service records** with comprehensive documentation
+- **Recent major maintenance done** (brakes, cooling system, belt tensioners, tires) -- low immediate maintenance burden
+
+### Recurring Issues
+
+| System | Events | Concern |
+|--------|--------|---------|
+| A/C compressor | Replaced at 40k AND 142k | Climate system weak point |
+| Power steering | Reservoir replaced at 94k AND 120k | Recurring PS leak |
+| Windshield | Replaced at ~2k AND 133k | Two replacements (14 yrs apart) |
+
+### M272 Assessment
+2009 model has lower balance shaft sprocket risk than 2006-2008 (revised design), but same engine family. Intake manifold swirl flaps can break and get ingested (catastrophic). Valve cover gasket already done at 40k.
+
+### Verdict
+Genuinely interesting. 17-year all-Mercedes-dealer service is extraordinary. 2009 M272 has lower balance shaft risk than the 2007 C280. AWD, V6, SUV practicality. Recent comprehensive maintenance. Downsides: 16 years old, ~160k+ miles, one accident, A/C replaced twice, recurring PS issues, Mercedes parts cost. **The unknown price is the wildcard** -- if $4,500-$5,500 it's worth a look; if $6,000+ it's out of budget. **Ranked #5. Call for price first.**
+
+---
+
+## Vehicle #21 -- 2002 Mercedes-Benz ML320 (BaT Auction) -- Worth Bidding
+
+### Specs
+- **Mileage:** ~107,000 mi
+- **Engine:** M112 E32 3.2L SOHC V6 (215 hp / 229 lb-ft)
+- **Transmission:** 722.6 5-speed automatic
+- **Drivetrain:** 4MATIC AWD with dual-range transfer case
+- **Exterior:** Desert Silver Metallic / Java leather
+- **Owners:** 2 (plus selling dealer)
+- **Accidents/Damage:** 1 (front damage 01/2026, cosmetic bumper blemishes per BaT)
+- **Current bid:** $2,900 (no reserve)
+- **Carfax:** https://www.carfax.com/vehicle/4JGBB86E69A494940
+
+### Compressed Carfax
+
+| Owner | Period | Miles | Miles/Year | Notes |
+|-------|--------|-------|------------|-------|
+| 1 | Dec 2001 -- Jan 2014 | 7 -> 98,280 | ~8,200 | Del Mar / Rancho Santa Fe, CA. Only 3 documented service visits in 12 years. |
+| 2 | Mar 2014 -- ~2025 | 98,300 -> ~106,950 | **~722** | Arcadia / Azusa, CA. Barely driven. One documented service (oil + plugs at 106k). Failed emissions 10/2019 (fixed same day). |
+| Dealer | Mar 2026 | ~107,000 | -- | Prep: oil, battery, fuel filter, left cat converter, front brake pads + sensors. BaT no reserve. |
+
+### M112 Engine
+The M112 is NOT the M272. No balance shaft issue. SOHC, mechanically simpler and more proven than every other engine in the search. Typical lifespan 250,000+ mi if maintained. Known issues are cheap: crank sensor ($50), MAF ($100-$200), expansion tank ($30-$80), window regulators ($150-$300).
+
+### Key Risks
+- **24 years old** -- age kills rubber, plastic, wiring regardless of mileage
+- **Near-zero service documentation** -- 4 visits across 2 owners in 24 years
+- **Sat for 12 years barely driven** (Owner 2: 722 mi/yr) -- dried seals, stale fluids
+- **Shipping required** from California (~$900-$1,200)
+- **Catch-up maintenance needed** -- trans fluid, diff fluids, transfer case fluid, brake fluid, coolant, hoses (~$1,100-$1,900)
+
+### Key Strengths
+- **M112 engine** -- simplest, toughest engine in the search
+- **California car for 24 years** -- zero rust
+- **107k miles** -- lowest mileage-to-age ratio in the search
+- **$2,900 entry price** -- lowest by far
+- **AWD with low-range transfer case** -- real capability for Michigan
+- **Dealer did meaningful prep** (brakes, battery, fuel filter, cat, oil)
+
+### Price Thresholds
+
+| Winning Bid | All-In (shipping + maintenance) | Verdict |
+|-------------|--------------------------------|---------|
+| $2,500 | $4,645--$5,775 | Strong buy |
+| $2,900 | $5,045--$6,175 | Good buy |
+| $3,500 | $5,645--$6,775 | Acceptable |
+| $4,000+ | $6,145+ | Walk away |
+
+### Verdict
+**Worth bidding at $2,900.** The M112 is the most reliable engine in the search, California provenance eliminates rust, and 107k is low. Service history is terrible but the entry price is so low you can budget $1,500-$2,000 for catch-up maintenance and still be under $6,000 all-in. Unlike the N63 or N54, the M112's failure modes are cheap to fix. **Sweet spot: $2,500-$3,000. Walk away above $4,000.** Ranked #5.
+
+---
+
+## Vehicle #22 -- 2012 Volkswagen Jetta SportWagen TDI (Clinton Twp, MI) -- PASS
+
+### Specs
+- **Mileage:** 182,064 mi
+- **Engine:** EA189 2.0L TDI Diesel I4 (140 hp / 236 lb-ft)
+- **Transmission:** Unknown (6-speed manual or DSG)
+- **Drivetrain:** FWD
+- **Body:** Wagon 4D
+- **Owners:** 4
+- **Accidents/Damage:** 1 (reported 03/2014, no severity details)
+- **Open recalls:** Steering wheel clock spring (safety), snow flap/O2 sensor (emission)
+- **Dieselgate fix:** Applied 01/2018 at 46,706 mi
+
+### Compressed Carfax
+
+| Owner | Period | Miles | Miles/Year | Notes |
+|-------|--------|-------|------------|-------|
+| 1 (lease) | Jul 2012 -- Jan 2018 | 38 -> 46,706 | ~8,500 | Santa Barbara, CA -> Auburn Hills, MI. Accident 03/2014. One oil change at 36k. Returned to VW for Dieselgate fix. |
+| 2 | Feb 2018 -- Mar 2021 | 46,706 -> ~86,832 | ~13,400 | Ferndale, MI. Zero service. |
+| 3 | Mar 2021 -- Nov 2024 | ~86,832 -> 155,109 | ~19,500 | Holly, MI. High-mileage, zero service. |
+| 4 | Nov 2024 -- present | 155,109 -> 182,064 | ~20,000 | Clinton Twp, MI. Zero service. Selling after 16 months. |
+
+### The Showstopper: Timing Belt
+The EA189 is an **interference engine** with a timing belt due at 120,000 miles. This car has 182,064 miles with **zero documentation** the belt was ever changed. If it snaps, pistons hit valves -- engine destroyed. Replacement cost: $3,000--$6,000+. Preventive belt change: $800--$1,200.
+
+### Service History
+- 145,384 miles of zero documented maintenance after 36,680 mi
+- Worst service documentation in the entire search
+- At 182k, should have had ~18 oil changes, 1+ timing belt changes, 3-4 DSG fluid changes -- nearly none documented
+
+### Verdict
+**Pass.** The TDI is legendary when maintained -- 40+ MPG, 236 lb-ft, known to run 300k+. But this example has the worst service documentation in the search, 4 owners, an accident, and an unknown timing belt on an interference engine 60k+ miles past its interval. Only worth considering if price is under $3,000 AND you can verify the timing belt was done or budget $1,200 to do it immediately.
 
 ---
 
